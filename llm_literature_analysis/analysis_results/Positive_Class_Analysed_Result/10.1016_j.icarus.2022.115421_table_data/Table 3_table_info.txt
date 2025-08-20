@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.icarus.2022.115421
+Table Title: Table 3: Newly assigned hot band transitions starting from the pentad and the octad polyads.
+================================================================================
+
+Table Caption: Newly assigned hot band transitions starting from the pentad and the octad polyads. ν(obs), ν(calc) are the observed and calculated (TheoReTS) wavenumbers of the ro-vibrational transitions, respectively; ν(obs-calc) is the difference between observed and calculated line positions; S: Line intensity retrieved from the simulated spectrum according to Eq. (9). Subscripts “low” and “up” refer to the lower and upper energy levels, respectively. E: ro-vibrational energy level; J: quantum number for total rotational angular momentum; C: ro-vibrational symmetry (product of the rotational and vibrational symmetries); n: ranking number for a given (J,C,P) block; P: Polyad number defined as P = 2v_{1} + v_{2} + 2v_{3} + v_{4}; A: Einstein coefficient of the transition; vib: vibrational quantum numbers and vibrational symmetry.
+
+Uncertainty Information: 0.01 cm⁻¹
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

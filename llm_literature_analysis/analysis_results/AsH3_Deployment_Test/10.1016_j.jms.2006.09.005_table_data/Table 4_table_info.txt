@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jms.2006.09.005
+Table Title: Table 4
+================================================================================
+
+Table Caption: Experimental ro-vibrational term values for J ⩽6 for the (001000), (000100), (000001), and ground vibrational states of the AsHD_{2} molecule (in cm^{−1}) ^{a}
+
+Uncertainty Information: 0.5×10^{-3} cm^{-1}
+
+FOOTNOTES:
+----------------------------------------
+  1. [tblfn12] In Table 4, Δ is the experimental uncertainty of the energy value, equal to one standard deviation in units of 10^{−5} cm^{−1}; δ is the difference E ^{exp} − E ^{calc.}, also in units of 10^{−5} cm^{−1}; Δ is not quoted when the energy value was obtained from only one transition.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-14 12:39:26
+
+================================================================================

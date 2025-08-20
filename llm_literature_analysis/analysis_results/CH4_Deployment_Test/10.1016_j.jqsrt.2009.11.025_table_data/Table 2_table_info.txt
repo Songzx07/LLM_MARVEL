@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2009.11.025
+Table Title: Table 2: Wavenumbers and line strengths of the methane transitions recorded at 81K in the region of the ν _{2}+4ν _{4} (or ν _{1}+3ν _{4}) band near 6765cm^{−1}, limited to the lines with intensity larger than 10^{−24} cm/molecule.
+================================================================================
+
+Table Caption: Wavenumbers and line strengths of the methane transitions recorded at 81K in the region of the ν _{2}+4ν _{4} (or ν _{1}+3ν _{4}) band near 6765cm^{−1}, limited to the lines with intensity larger than 10^{−24} cm/molecule.
+
+Uncertainty Information: 0.001-0.003 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. The complete line list is provided as Supplementary Material. The low energy E and J values were obtained for the transitions whose centres coincide with the HITRAN line positions at 296K (δ<0.002cm^{−1}). The two J_{emp} values marked with “*” correspond to RT and LNT line centres differing by 0.002<δ<0.003cm^{−1}.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

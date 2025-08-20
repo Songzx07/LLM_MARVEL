@@ -1,0 +1,19 @@
+# Core Dependencies
+pandas>=1.5.0
+requests>=2.28.0
+tqdm>=4.64.0
+
+# LLM API Libraries
+openai>=1.0.0
+groq>=0.4.0
+
+# XML Processing
+# xml.etree.ElementTree is part of Python standard library
+
+# Data Processing and Utilities
+pathlib>=1.0.0  # Part of Python standard library (Python 3.4+)
+typing>=3.7.0   # Part of Python standard library (Python 3.5+)
+dataclasses>=3.7.0  # Part of Python standard library (Python 3.7+)
+
+# File I/O and System
+# os, sys, time, csv, json, re, copy, datetime, logging are part of Python standard library

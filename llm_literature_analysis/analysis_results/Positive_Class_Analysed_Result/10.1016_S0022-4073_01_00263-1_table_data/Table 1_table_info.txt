@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/S0022-4073(01)00263-1
+Table Title: Table 1: Line positions and line intensities of CH_{4} in R(17)–R(22) clusters of the ν _{3} band
+================================================================================
+
+Table Caption: Line positions and line intensities of CH_{4} in R(17)–R(22) clusters of the ν _{3} band
+
+Uncertainty Information: 0.5e-3 cm-1 (for non-blended lines); better than 6e-3 cm-1 (for the 100 new high J data)
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 1_table_data.csv
+Info file: Table 1_table_info.txt
+Generated on: 2025-08-12 20:03:11
+
+================================================================================

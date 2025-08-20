@@ -1,0 +1,21 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2018.02.019
+Table Title: Table 4: The comparison of our results to that of previous studies.
+================================================================================
+
+Table Caption: The comparison of our results to that of previous studies. All the intensities are corrected to 296 K using the partition function of Nikitin et al. [42]. Symbol σ _{0} = ω _{0}/c is the position in wavenumber. Abbreviations: VP Voigt profile, HTP Harmann-Tran profile, SDVP Speed-dependent Voigt profile, SDNGP Speed-dependent Nelkin–Ghatak profile.
+
+Uncertainty Information: not available
+
+FOOTNOTES:
+----------------------------------------
+  1. [tb4fn1] γ = (γ _{air} − 0.21γ _{O2})/0.79 where γ _{O2} = 0.055 cm^{−1}/atm from Lyulin et al. [11].
+  2. [tb4fn2] δ = (δ _{air} − 0.21δ _{O2})/0.79 where δ _{O2} = −0.0105 cm^{−1}/atm from Lyulin et al. [11].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

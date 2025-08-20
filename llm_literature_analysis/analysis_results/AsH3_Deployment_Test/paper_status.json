@@ -1,0 +1,51 @@
+﻿{
+  "0": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jms.2006.09.005.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "1": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jms.2007.10.007.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "2": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jms.2008.02.002.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "3": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jqsrt.2025.109496.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "4": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_s0022-2852(02)00061-9.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "5": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_s1386-1425(98)00157-7.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "6": {
+    "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_s1386-1425(98)00172-3.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  }
+}

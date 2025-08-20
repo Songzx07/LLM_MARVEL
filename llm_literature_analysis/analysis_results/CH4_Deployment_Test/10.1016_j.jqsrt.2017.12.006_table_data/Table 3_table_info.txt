@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.12.006
+Table Title: Table 3: The effect of the line mixing for two groups of lines, 1−10 and 11−18.
+================================================================================
+
+Table Caption: The effect of the line mixing for two groups of lines, 1−10 and 11−18. a−the line centers found at p=15 Torr, b−those found with account of the pressure line shift Δ (p=1.9, 15, 40, and 380 Torr); n−the parameters retrieved without account of the line mixing, m−those obtained with the mixing.
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

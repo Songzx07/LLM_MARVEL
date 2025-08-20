@@ -1,0 +1,213 @@
+{
+  "success": true,
+  "total_files": 7,
+  "results": [
+    {
+      "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jms.2006.09.005.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution infrared spectroscopy of AsHD2, specifically on measuring, assigning, and analyzing over 5500 rovibrational transitions to determine ground and excited state rovibrational energy levels and spectroscopic parameters. This involves processes such as obtaining 'ground state combination differences' and fitting upper state ro-vibrational energies using an effective Hamiltonian, which are directly aligned with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data and assigned transitions."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper describes the measurement of over 5500 new rovibrational transitions for AsHD2, which have been assigned with quantum numbers. It reports the determination of 502, 537, and 435 upper energies for the (001000), (000100), and (000001) vibrational states, respectively, which are mean values from several transitions. These experimental ro-vibrational term values (energy levels) are presented in Table 4, along with quantum numbers (J, Ka, Kc) and experimental uncertainties. The full Table 4, including higher J values, is stated to be available as supplementary material, indicating a comprehensive dataset of derived energy levels with associated quantum numbers and uncertainties. While the raw list of >5500 transitions with their quantum assignments is not explicitly shown in the provided text, their existence and full assignment are clearly stated, implying they would be the primary input for MARVEL.",
+            "need_pdf": false,
+            "has_uncertainty": true,
+            "uncertainty_description": "Wavenumber precision is stated to be better than 0.2×10^{-3} cm^{-1}, and wavenumber accuracy is about 0.5×10^{-3} cm^{-1}. Additionally, experimental uncertainties for the derived upper energy values are quoted in units of 10^{-5} cm^{-1} in Table 4.",
+            "uncertainty_value": "0.5×10^{-3} cm^{-1}",
+            "table_info": {
+              "table_title": ["Table 4"],
+              "description": "Table 4 is described as presenting 'Experimental ro-vibrational term values for J ⩽6 for the (001000), (000100), (000001), and ground vibrational states of the AsHD2 molecule (in cm-1)'. This table includes derived energy levels with associated quantum numbers and experimental uncertainties. The full table for all assigned J values is available in the supplementary material. Although it contains derived energy levels rather than raw transitions, these derived levels are directly compatible with MARVEL's output and can be used to build a robust energy level network."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL's objectives, as it details a high-resolution spectroscopic study to determine molecular energy levels through the measurement, assignment, and analysis of rovibrational transitions. The paper provides MARVEL-compatible experimental data, including the measurement of over 5500 assigned transitions with explicit wavenumber uncertainties. Although the raw list of transitions is not provided in the main text, the paper states that comprehensive derived rovibrational term values (energy levels) with quantum number assignments and uncertainties are available in a full supplementary table, indicating a rich dataset suitable for MARVEL analysis."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jms.2007.10.007.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on modeling and fitting vibrational energy levels of AsH3 using various algebraic formalisms (local mode, normal mode, coupled local-local, local-normal). It explicitly discusses 'observed energy levels' and compares them with 'calculated energy levels' to validate its theoretical models and evaluate their accuracy. This aligns with MARVEL's goal of understanding and reconstructing molecular energy level structures from experimental data, even though this paper utilizes derived energy levels as input for its models rather than raw spectroscopic transitions."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "",
+            "need_pdf": false,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper discusses 'experimental precision' for the observed energy levels, stating for instance, 'about the experimental precision in this region' for a 1 cm⁻¹ change. It also uses 'σ_i = 1' as a chosen value for statistical weight calculation of experimental data. The standard deviation of the fit, σ(d,p), is frequently compared to the experimental precision, with values ranging from 0.57 cm⁻¹ to 5.75 cm⁻¹ depending on the model and dataset.",
+            "uncertainty_value": "not available",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "The paper is relevant to MARVEL's objectives as it extensively deals with the modeling and analysis of molecular vibrational energy levels. However, it does not provide new, raw MARVEL-compatible experimental data (i.e., measured transition wavenumbers with full upper and lower quantum number assignments and uncertainties). Instead, it uses 'observed energy levels' that are explicitly stated to be reported in previous publications [19, 31], which are already derived quantities. While uncertainties for these observed energy levels are discussed, the fundamental transition data required by MARVEL is absent."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\10.1016_j.jms.2008.02.002.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper describes a high-resolution Fourier transform spectroscopic study of the AsH2D molecule, involving the measurement, assignment, and analysis of over 8100 rovibrational transitions. These measured transition wavenumbers were used to determine and fit upper energy levels using a Watson-type Hamiltonian. This process directly aligns with MARVEL's objective of reconstructing molecular energy level structures from experimental spectroscopic data, including transition wavenumbers, quantum number assignments for both upper and lower states, and their associated uncertainties."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The paper explicitly describes the measurement and assignment of more than 7500 allowed and 600 forbidden rovibrational transitions. It also states that quantum number assignments (J, Ka, Kc) were made for these transitions. However, the provided content does not contain a table or explicit list of these measured transition wavenumbers themselves, along with their full upper and lower state quantum number assignments. Table 3, mentioned as being deposited in full length as supplementary material, is stated to contain \"experimental ro-vibrational term values\" (energy levels), not the raw transition wavenumbers that MARVEL requires as input.",
+            "need_pdf": false,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper states: \"Wavenumber precision is 0.2×10^{-3} cm^{-1} or better, wavenumber accuracy better than 0.5×10^{-3} cm^{-1}.\"",
+            "uncertainty_value": "0.0002 cm-1 (precision)",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL's goals as it details a comprehensive high-resolution rovibrational spectroscopic analysis, including the measurement, assignment, and modeling of molecular energy levels for AsH2D. While the paper clearly describes that the necessary raw experimental transition data (wavenumbers, full quantum number assignments, and uncertainties) were acquired, this data is not *provided* in the given content. The supplementary material is stated to contain derived energy levels (term values), not the original transitions, which are required for direct MARVEL input."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_j.jqsrt.2025.109496.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution FTIR spectroscopy of AsH₃, presenting new experimental data for rovibrational transitions, their assignment with quantum numbers, and subsequent analysis to improve spectroscopic parameters and energy levels. It explicitly mentions generating 'new precise infrared FTIR experimental data' and assigning 'more than 6500 transitions' with quantum numbers and high accuracy. This directly aligns with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data and performing rovibrational analysis."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper describes obtaining 'more than 6500 transitions' from new high-resolution FTIR spectra. These transitions are explicitly stated to be 'assigned' with quantum numbers (Jmax = 27, Kmax = 24). Table 6 is mentioned as presenting 'some sets of assigned transitions', serving as an illustration. The full dataset, given its large size, is implicitly expected to be in supplementary material or extensive appendices, as common practice in spectroscopy publications.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The mean accuracy in line positions for the new experimental data.",
+            "uncertainty_value": "5 × 10⁻⁵ cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 6: Some sets of assigned transitions of the ν2 and ν4 bands of AsH₃."
+              ],
+              "description": "This table is explicitly stated to contain 'some sets of assigned transitions of the ν2 and ν4 bands of AsH₃'. Based on the context, these would include measured wavenumbers, quantum number assignments for both upper and lower states, and are associated with the stated mean accuracy (uncertainty) of 5 × 10⁻⁵ cm⁻¹."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It describes the acquisition and assignment of a large number (over 6500) of new high-resolution FTIR rovibrational transitions for AsH₃. These transitions are stated to be fully assigned with quantum numbers for both upper and lower states and have an explicit mean accuracy (uncertainty) of 5 × 10⁻⁵ cm⁻¹. While only a sample of these transitions is indicated to be in Table 6, the description strongly confirms the existence of MARVEL-compatible experimental data. Accessing the full dataset would likely require reviewing the full PDF and any supplementary materials."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_s0022-2852(02)00061-9.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL goals. It focuses on developing an algebraic model and effective Hamiltonian to describe and analyze the stretching vibrational energy levels of the arsine molecule (AsH3). It discusses the assignment of quantum numbers to these vibrational states and compares its calculated energy levels with 'observed energy levels' (from previous experimental studies) using a least-squares fitting procedure. This directly aligns with MARVEL's objective of understanding and reconstructing molecular energy level structures, although this paper focuses on theoretical modeling and validation against existing data rather than generating new raw experimental transitions."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The paper presents 'Observed levels' in Table 5, which are energy levels in cm-1 for various vibrational states of AsH3, along with their quantum number assignments (local notation and symmetry). However, these data are explicitly stated to be from external sources ([18, 13, 19, 20, 21–23]), not newly measured in this paper. Crucially, MARVEL requires experimentally measured *transition wavenumbers* with assignments for *both* upper and lower states of each transition, which are not provided here. The data presented are energy levels, not transitions.",
+            "need_pdf": false,
+            "has_uncertainty": false,
+            "uncertainty_description": "The paper provides standard deviations for the least-squares fit (e.g., σ(d,p) = 1.54 cm-1 for Mod.1 and 1.34 cm-1 for Mod.2), which indicate the quality of the fit between calculated and observed levels. These are not the uncertainties of the individual observed experimental levels themselves. The uncertainties of the original experimental data (from external sources) are not stated within this paper.",
+            "uncertainty_value": "not available",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "This paper is relevant to MARVEL because it deals with the theoretical modeling and analysis of molecular vibrational energy levels, specifically for AsH3, and validates its model against 'observed energy levels' sourced from other experimental papers. However, it does not provide new MARVEL-compatible experimental data in the form of measured transition wavenumbers with their associated upper and lower state quantum number assignments and uncertainties within the paper itself."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_s1386-1425(98)00157-7.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL goals. It describes a high-resolution spectroscopic study of the (400) stretching overtone band of AsH3 using a Fourier transform spectrometer. The research involves detailed rovibrational analysis, including the assignment of 317 transitions, determination of upper state rotational energy levels using the combination difference method, and fitting these levels to symmetric and asymmetric top models. The objective of analyzing and modeling molecular energy level structures from experimental data aligns directly with MARVEL's purpose of reconstructing molecular energy level structures."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The paper states that 317 transitions were assigned and used to determine upper state energy levels, and describes the quantum numbers used (J, K_a, K_c for both upper and ground states, and A1/E symmetry for upper state). However, the actual measured transition wavenumbers (or frequencies) linked with their corresponding upper and lower state quantum number assignments are not presented in the provided text or table titles. Table 3 is explicitly titled 'Upper state rotational energy levels', which are derived quantities, not the raw transitions required by MARVEL.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The precision of the line position was estimated to be better than 0.001 cm⁻¹. The apodized resolution was 0.01 cm⁻¹.",
+            "uncertainty_value": "0.001 cm⁻¹",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to the MARVEL algorithm due to its focus on high-resolution rovibrational spectroscopy, transition assignment, and determination of molecular energy levels for AsH3. However, based on the provided content, it does not directly contain the raw experimental transition wavenumbers with their full quantum number assignments for both upper and lower states, which are essential inputs for MARVEL. It describes that such data were acquired and used to derive energy levels (listed in Table 3), but the transitions themselves are not explicitly provided in a MARVEL-compatible format within the given text."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\AsH3_Analysable\\10.1016_s1386-1425(98)00172-3.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution Fourier transform spectroscopy of arsine (AsH3) in the second stretching overtone manifold. It describes the rotational analysis of several stretching combination bands, leading to the determination of vibration-rotational parameters and the reconstruction of 376 upper state energy levels. This involves experimental measurements of molecular transitions, their quantum number assignment, and the derivation of molecular energy levels, which are core objectives and methodologies that align perfectly with the goals of the MARVEL algorithm. The paper explicitly mentions 'assignment of the spectrum' and 'observed energy levels', demonstrating a clear focus on characterizing molecular energy structures from spectroscopic data."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The provided content does not explicitly list the experimentally measured transition wavenumbers (line positions) with their corresponding upper and lower state quantum number assignments, which are the direct inputs required for the MARVEL algorithm. While the paper states that such data was acquired, assigned, and used to derive upper state energy levels (e.g., Table 3 shows derived upper state levels, not raw transitions), the raw transition data itself is not presented in this snippet.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The precision of the measured spectrum (and thus the estimated uncertainty of the transition wavenumbers) is explicitly stated in the text.",
+            "uncertainty_value": "0.002 cm^{-1}",
+            "table_info": {
+              "table_title": [
+                "Table 3: Upper state energy levels of the (210) and (111) local mode combination band systems (cm^{−1})ª"
+              ],
+              "description": "Table 3 presents derived upper state energy levels along with their assignments, observed-calculated differences, and weights. However, this table does not contain the raw transition wavenumbers with both upper and lower state quantum numbers, which are the necessary inputs for MARVEL."
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL as it describes the high-resolution spectroscopic analysis and rovibrational assignment of AsH3 to determine molecular energy levels. It details the experimental techniques, resolution, and precision of the measurements. Although the paper clearly states the existence of measured and assigned high-resolution spectral data, the provided content *does not include the direct MARVEL-compatible experimental data*, i.e., tables of measured transition wavenumbers with complete upper and lower state quantum number assignments. It provides derived upper state energy levels instead. It is highly probable that the full transition data exists, possibly in supplementary material, but it is not contained within the given text. Therefore, while the paper's subject matter is perfectly aligned with MARVEL's goals, the raw input data for MARVEL is not provided in this specific content snippet, necessitating access to the full PDF or supplementary information to obtain it."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    }
+  ]
+}

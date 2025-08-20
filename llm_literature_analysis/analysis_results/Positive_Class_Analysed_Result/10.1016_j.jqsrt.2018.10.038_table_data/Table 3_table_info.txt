@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2018.10.038
+Table Title: Table 3: Spectroscopic parameters for CH_{4} ν _{3} band Q branch in N_{2} at T = 296 K for model $ α [ 1 , 1 , 2 ] $
+================================================================================
+
+Table Caption: Spectroscopic parameters for CH_{4} ν _{3} band Q branch in N_{2} at $ T = 296 $ K for model $ α [ 1 , 1 , 2 ] $ .
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

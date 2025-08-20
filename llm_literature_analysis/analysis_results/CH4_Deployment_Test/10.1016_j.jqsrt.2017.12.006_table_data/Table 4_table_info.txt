@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.12.006
+Table Title: Table 4: The parameters of isolated lines processed with K_{NG}.
+================================================================================
+
+Table Caption: The parameters of isolated lines processed with K_{NG} . The errors are of the same order of magnitude as those presented in Tables 2 and 3.
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

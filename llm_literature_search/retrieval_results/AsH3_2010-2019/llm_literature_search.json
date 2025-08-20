@@ -1,0 +1,54 @@
+{
+  "search_metadata": {
+    "total_papers": 2,
+    "search_method": "LLM-Enhanced Search"
+  },
+  "papers": [
+    {
+      "title": "Molecular Constants Mostly from Microwave, Molecular Beam, and Sub-Doppler Laser Spectroscopy",
+      "authors": ["Dines Christen"],
+      "year": 2017,
+      "venue": "",
+      "doi": "10.1007/978-3-662-49199-7",
+      "abstract": "",
+      "publisher": "Springer Berlin Heidelberg",
+      "citation_count": 0,
+      "url": "https://doi.org/10.1007/978-3-662-49199-7",
+      "type": "book",
+      "page": "",
+      "volume": "",
+      "issue": "",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.8,
+        "reasoning": "This title strongly suggests a compilation or review of high-resolution experimental spectroscopic data, specifically 'Molecular Constants' derived from techniques like 'Microwave, Molecular Beam, and Sub-Doppler Laser Spectroscopy'. These methods typically yield precise transition frequencies with quantum number assignments and uncertainties, which are exactly the type of input required for the MARVEL algorithm. While AsH3 is not explicitly mentioned, it is a small molecule often studied by such techniques, making it plausible that data for arsine (AsH3) could be included or referenced.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Rotationally resolved vibrational spectra of AsH3+X̃2A2″: Tunneling splittings studied by zero-kinetic-energy photoelectron spectroscopy",
+      "authors": ["Wei Sun", "Zuyang Dai", "Jia Wang", "Yuxiang Mo"],
+      "year": 2016,
+      "venue": "The Journal of Chemical Physics",
+      "doi": "10.1063/1.4953776",
+      "abstract": "<jats:p>The rotationally resolved vibrational spectra of AsH3+X̃2A2″ have been measured for the first time with vibrational energies up to 6000 cm−1 above the ground state using the zero-kinetic-energy photoelectron method. The symmetric inversion vibrational energy levels (v2+) and the corresponding rotational constants for v2+=0-15 have been determined. The tunneling splittings of the inversion vibration energy levels have been observed and are 0.8 and 37.7 (±0.5) cm−1 for the ground and the first excited vibrational states, respectively. The first adiabatic ionization energy for AsH3 was determined as 79 243.3 ± 1 cm−1. The geometric parameters of AsH3+X̃2A2″ as a function of inversion vibrational numbers have been determined, indicating that the geometric structure of the cation changes from near-planar to pyramidal with increasing inversion vibrational excitation. In addition to the experimental measurements, a two-dimensional theoretical calculation considering the two symmetric vibrational modes was performed to determine the energy levels of the symmetric inversion, which are in good agreement with the experimental results. The inversion vibrational energy levels of SbH3+X̃2A2″ have also been calculated and are found to have much smaller energy splittings than those of AsH3+X̃2A2″.</jats:p>",
+      "publisher": "AIP Publishing",
+      "citation_count": 1,
+      "url": "https://doi.org/10.1063/1.4953776",
+      "type": "journal-article",
+      "page": "",
+      "volume": "144",
+      "issue": "23",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper explicitly mentions 'AsH3' and 'rotationally resolved vibrational spectra' obtained by experimental photoelectron spectroscopy. While the focus is on the cation (AsH3+), such studies often contain or rely on high-resolution data for the neutral parent molecule (AsH3) or provide information highly relevant for its spectroscopic characterization with assigned quantum numbers and uncertainties, making it highly usable as input for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    }
+  ]
+}

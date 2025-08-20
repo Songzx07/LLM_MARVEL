@@ -1,0 +1,5 @@
+﻿,"Line intensity, S (cm/mol)×10^{−22}",,,,
+,Profile,,,,
+Perturber,Voigt,Rautian–Sobel’man,Galatry,SDVP,SDNGP
+N_{2},7.123(35),7.220(28),7.235(30),7.238(35),–
+Ne,7.056(48),7.183(37),7.198(36),7.135(41),7.192(37)

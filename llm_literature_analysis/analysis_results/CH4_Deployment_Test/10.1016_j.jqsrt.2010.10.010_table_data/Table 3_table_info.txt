@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2010.10.010
+Table Title: Table 3: Sample of retrieved self-broadening and self-pressure-induced shift parameters of methane in the 5556–6166cm⁻¹ range
+================================================================================
+
+Table Caption: Sample of retrieved self-broadening and self-pressure-induced shift parameters of methane in the 5556–6166cm^{−1} range.
+
+Uncertainty Information: 0.005 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Note: Wavenumber is given in cm^{−1}, broadening and shift coefficients are given in units of 0.0001cm^{−1} atm^{−1}, line intensity S is given in 10^{−24} cm molecule^{−1} at 296K, temperature exponent of broadening n and shift η coefficients are dimensionless values. Confidence intervals (1 SD, in unit of the last quoted digit) are given between parentheses. The presented wavenumbers and line intensities are retrieved in this study.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

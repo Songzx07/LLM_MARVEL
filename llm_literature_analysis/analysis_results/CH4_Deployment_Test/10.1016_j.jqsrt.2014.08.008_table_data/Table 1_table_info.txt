@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2014.08.008
+Table Title: Table 1: The identified line transitions of vibration–rotation in the P(11)-manifold region of the ν _{3} band of CH_{4} studied in this work.
+================================================================================
+
+Table Caption: The identified line transitions of vibration–rotation in the P(11)-manifold region of the ν _{3} band of CH_{4} studied in this work.
+
+Uncertainty Information: ~0.0001 cm-1 (inferred from instrumental line-width)
+
+FOOTNOTES:
+----------------------------------------
+  1. [tbl1fnStar] Line positions and their corresponding are taken from the HITRAN 2012 database [1]. J′, C′, N′ (respectively, J″, C″, N″) are the upper (respectively, lower) state labels; J: rotational quantum number, C: symmetry label, N: order index [49].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 1_table_data.csv
+Info file: Table 1_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

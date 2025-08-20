@@ -1,0 +1,25 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.07.030
+Table Title: Table 4: Sample of Electronic Supplementary data. Methane at 296 K with assignment in the 5300-5550 cm^{−1} region.
+================================================================================
+
+Table Caption: Sample of Electronic Supplementary data. Methane at 296 K with assignment in the 5300-5550 cm^{−1} region.
+
+Uncertainty Information: 0.0025 cm-1 (RMS deviation of fit)
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes:
+  2. [tb4fn1] + assigned line, - unassigned line, 3 corresponds to ^{13}CH_{4}.
+  3. [tb4fn4] Lower and upper state rovibrational assignments are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T_{d} irreducible representation) and the rovibration ranking index α.
+  4. [tb4fn5] E_{low}: recommended value for the lower state energy [in cm^{−1}]. Order of priority: exact assignment, lower J, observed E lower, default E lower corresponded to J=12 (see Text).
+  5. [tb4fn6] Self-Broadening coefficient obtained from [81].
+  6. [tb4fn7] Air-Broadening coefficient obtained from [81].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

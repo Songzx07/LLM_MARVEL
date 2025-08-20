@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2012.08.025
+Table Title: Table 2
+================================================================================
+
+Table Caption: Sample extracted from the line list attached as electronic supplementary data.
+
+Uncertainty Information: 0.00013 cm^-1
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes: In this table, the columns are: 1. ISO: isotopologues, 61 for ^{12}CH_{4}. 2. Src obs: means type of source of the observed data. All the data are predicted values, for observed lines, “R” means Reims (290K) FTS origin, “B” corresponds to the JPL (296K) data. 3. Nu: is σ _{ o }, the calculated line position. 4. I: is S°(296K), the calculated line intensity at 296K (HITRAN units: cm/molecule). 5. Lower rovibrational assignment are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T _{ d } irreducible representation) and the ranking vibration sublevel number N. 6. Upper rovibrational assignment in the same format. 7. F _{ o }−F _{ c } is the difference between observed and calculated line position included in the fit in 10^{−3} cm^{−1} units. These values allow retrieving the observed positions. 8. I _{ o }−I _{ c }% is the relative difference between observed and calculated intensities included in the fit. These values permit the retrieval of the observed intensities. 9. The vibrational band assignment: contains the principal vibrational quanta (v _{1}, v _{2}, v _{3}, v_{4}) and vibrational symmetry type S _{ v } (T _{ d } irreducible representation). 10. E″: lower energy value.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

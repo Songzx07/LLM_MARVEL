@@ -1,0 +1,28 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.05.014
+Table Title: Table 2: Sample of electronic supplementary data. WKLMC list for methane at 296K with assignment in the 5855–6250 cm^{−1} region.
+================================================================================
+
+Table Caption: Sample of electronic supplementary data. WKLMC list for methane at 296K with assignment in the 5855–6250 cm^{−1} region.
+
+Uncertainty Information: 0.0015 cm^{-1}
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes:
+  2. [tb2fn1] + assigned line, * split unassigned line, - unassigned line, 3 corresponds to ^{13}CH_{4}, 4 is CH_{3}D, 5 is 12C/13C, 6 is 12C/CH3D (see [11] for details).
+  3. [tb2fn2] measured line positions [11].
+  4. [tb2fn3] I(296K): measured line intensities in cm/molecule at 296K [11].
+  5. [tb2fn4] Lower and upper state rovibrational assignments are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T_{d} irreducible representation) and the rovibration ranking index α.
+  6. [tb2fn5] E′= E lower: recommended value for the lower state energy (cm^{−1}). Order of priority: exact assignment, lower J, empirical E lower, default E lower (for ^{12}CH_{4} only) corresponding to J = 12 (see Text).
+  7. [tb2fn6] Empirical value of the lower state energy derived by the 2T-method in the WKLMC list [11]. For split lines WKLMC E_{emp} values were deleted.
+  8. [tb2fn7] Self-broadening coefficient obtained from [70].
+  9. [tb2fn8] Air-broadening coefficient obtained from [70].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

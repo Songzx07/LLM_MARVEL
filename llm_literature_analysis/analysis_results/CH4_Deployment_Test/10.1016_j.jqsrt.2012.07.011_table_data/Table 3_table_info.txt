@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2012.07.011
+Table Title: Table 3: Retrieved parameters of the methane R9 multiplet spectral lines broadened by N₂.
+================================================================================
+
+Table Caption: Retrieved parameters of the methane R9 multiplet spectral lines broadened by N_{2}.
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

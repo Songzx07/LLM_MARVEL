@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2018.04.007
+Table Title: Table 2: Wavenumbers and intensities of methane absorption lines recorded by DAS at 297 K and 80 K near 5732 cm^{−1}.
+================================================================================
+
+Table Caption: Wavenumbers and intensities of methane absorption lines recorded by DAS at 297 K and 80 K near 5732 cm^{−1}. The empirical values of the lower state energy levels, E_{emp} and corresponding J_{emp} values were obtained by the 2T-method for the transitions whose centre at 297 K and 80 K coincides within 0.003 cm^{−1}. This Table is a small section of the list attached as Supplementary Material. A similar list is also provided for T = 297 K.
+
+Uncertainty Information: 1.5 × 10^{−3} cm^{−1}
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

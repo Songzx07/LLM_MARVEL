@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2014.12.003
+Table Title: Table 2: Sample of the GOSAT-2014 line list
+================================================================================
+
+Table Caption: Sample of the GOSAT-2014 line list.
+
+Uncertainty Information: 0.005 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Note: iso—isotopologue: 61—^{12}CH_{4}, 60—^{13}CH_{4} (the lines of this isotopologue are usually overlapped in our spectra with the lines of ^{12}CH_{4}); Wavenumber—measured line position, cm^{−1}; S—measured line intensity, cm/molecule at 296K; J—angular momentum quantum number of lower state; E _{ low }—energy of lower level, cm^{−1}. If the lower state is unknown E _{ low }=815.0cm^{−1}; γ _{ self }—self-broadening coefficient, cm^{−1} atm^{−1}; γ _{ air }—air-broadening coefficient, cm^{−1} atm^{−1}; δ _{ self }—self-pressure-induced shift coefficient, cm^{−1} atm^{−1}; δ _{ air }—air-shift coefficient, cm^{−1} atm^{−1}; n—temperature exponent of the air-broadening coefficient; P _{l}—polyad number of lower state; J _{l}—angular momentum quantum number of lower state; Γ _{l}—symmetry of lower state; N _{l}—ranking number of a level with (J _{l} Γ _{l}) labels; P _{ u }—polyad number of upper state; J _{ u }—angular momentum quantum number of upper state; Γ _{ u }—symmetry of upper state; N _{ u }—ranking number of a level with (J _{ u } Γ _{ u }) labels.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

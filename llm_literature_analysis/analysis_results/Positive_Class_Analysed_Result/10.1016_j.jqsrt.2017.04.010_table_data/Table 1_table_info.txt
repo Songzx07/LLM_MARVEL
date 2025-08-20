@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.04.010
+Table Title: Table 1: Transitions measured in this work, with their assignment and fitted characteristics.
+================================================================================
+
+Table Caption: Transitions measured in this work, with their assignment and fitted characteristics.
+
+Uncertainty Information: 180 to 480 kHz
+
+FOOTNOTES:
+----------------------------------------
+  1. ν is the line's frequency. $ Δ ν $ is the line's width (FWHM). $ S / N $ is the signal-to-noise-ratio. $ d ν $ is the frequency step. σ is one standard deviation from the Gaussian line fit. $ δ ν $ is the line position uncertainty using Landman's formula (2). Obs.-Calc. is the fit residual from the global CH_{4} fit (34,821 lines).
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 1_table_data.csv
+Info file: Table 1_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

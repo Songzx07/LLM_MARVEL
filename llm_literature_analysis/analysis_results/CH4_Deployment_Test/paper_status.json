@@ -1,0 +1,485 @@
+﻿{
+  "0": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.chemphys.2010.05.011.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "1": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2009.10.006.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "2": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2010.02.005.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "3": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2012.08.002.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "4": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2012.08.007.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "5": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2013.03.001.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "6": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2013.03.009.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "7": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2013.04.005.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "8": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2013.05.015.xml",
+    "is_relevant": false,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "9": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2013.06.002.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "10": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2013.12.004.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "11": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2014.01.006.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "12": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2014.06.007.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "13": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2014.12.020.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "14": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2015.05.003.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "15": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2015.06.001.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "16": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2016.07.001.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "17": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jms.2018.12.004.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "18": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2009.10.019.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "19": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2009.11.025.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "20": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.01.017.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "21": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.02.006.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "22": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.02.015.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "23": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.04.019.xml",
+    "is_relevant": false,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "24": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.05.010.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "25": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.08.006.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "26": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.10.010.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "27": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2010.11.015.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "28": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2011.09.003.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "29": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2012.05.011.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "30": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2012.06.001.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "31": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2012.07.011.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "32": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2012.08.025.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "33": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2012.11.024.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "34": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2012.12.004.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "35": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2013.08.004.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "36": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2014.02.005.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "37": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2014.05.027.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "38": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2014.08.008.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "39": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2014.11.011.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "40": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2014.12.003.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "41": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2015.01.009.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "42": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2015.04.018.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "43": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2015.07.003.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "44": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2015.09.014.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "45": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2015.12.009.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "46": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2015.12.015.xml",
+    "is_relevant": false,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "47": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2016.03.024.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "48": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2016.07.017.xml",
+    "is_relevant": false,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "49": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2017.01.035.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "50": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2017.04.010.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "51": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2017.05.014.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "52": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2017.07.030.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "53": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2017.12.005.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "54": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2017.12.006.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "55": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.02.019.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "56": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.04.007.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "57": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.04.032.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "58": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.04.033.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "59": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.08.006.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "60": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.10.038.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "61": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.10.040.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "62": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2018.12.034.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "63": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2019.07.005.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "64": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2019.106646.xml",
+    "is_relevant": true,
+    "has_data": true,
+    "need_pdf": false,
+    "need_supplementary": true
+  },
+  "65": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.jqsrt.2019.106649.xml",
+    "is_relevant": false,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "66": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.saa.2017.10.058.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "67": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.vacuum.2010.01.016.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": false
+  },
+  "68": {
+    "file_path": "..\\article_xmls\\CH4_2010-2019\\10.1016_j.vibspec.2010.02.010.xml",
+    "is_relevant": true,
+    "has_data": false,
+    "need_pdf": false,
+    "need_supplementary": true
+  }
+}

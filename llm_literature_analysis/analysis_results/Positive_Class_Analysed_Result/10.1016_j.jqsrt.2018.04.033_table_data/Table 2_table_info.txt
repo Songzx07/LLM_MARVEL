@@ -1,0 +1,25 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2018.04.033
+Table Title: Table 2: Measured transition frequencies of the ν _{3} band of ^{12}CH_{4}.
+================================================================================
+
+Table Caption: Measured transition frequencies of the ν _{3} band of ^{12}CH_{4}. Uncertainties are represented by σ, and the difference (new–previous) is represented by δ.
+
+Uncertainty Information: average 0.40 MHz, ranging from 0.12 MHz to 1.3 MHz
+
+FOOTNOTES:
+----------------------------------------
+  1. [tblfn3] Daumont et al. [14].
+  2. [tblfn4] Uncertainty index 3 from the HITRAN2016 database [4].
+  3. [tblfn5] Gordon et al. [4].
+  4. [tblfn6] Uncertainty index 4 from the HITRAN2016 database [4].
+  5. [tblfn7] Albert et al. [13].
+  6. [tblfn8] Tyuterev et al. [22].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

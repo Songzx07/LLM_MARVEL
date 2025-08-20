@@ -1,0 +1,313 @@
+{
+  "search_metadata": {
+    "total_papers": 12,
+    "search_method": "LLM-Enhanced Search"
+  },
+  "papers": [
+    {
+      "title": "Reduced sextic rotational Hamiltonian for C3v molecules that are quasi-spherical tops (AsH3, PH3, OPF3)",
+      "authors": ["Kamil Sarka"],
+      "year": 1989,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(89)90204-x",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 31,
+      "url": "https://doi.org/10.1016/0022-2852(89)90204-x",
+      "type": "journal-article",
+      "page": "461-466",
+      "volume": "133",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper explicitly mentions AsH3 and discusses a 'rotational Hamiltonian', indicating it likely analyzes or uses experimental rotational spectroscopy data for arsine, which would contain assigned transitions, frequencies, and uncertainties suitable for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Mechanisms of the “forbidden” submillimeter spectra formation in the (0001) state of arsine",
+      "authors": [
+        "A.E. Cheglokov",
+        "V.N. Saveliev",
+        "O.N. Ulenikov",
+        "V.P. Kazakov",
+        "A.F. Krupnov"
+      ],
+      "year": 1988,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(88)90227-5",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 1,
+      "url": "https://doi.org/10.1016/0022-2852(88)90227-5",
+      "type": "journal-article",
+      "page": "299-303",
+      "volume": "128",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper explicitly mentions 'arsine' and discusses the 'formation' of 'submillimeter spectra' in a specific vibrational state. This strongly implies high-resolution experimental measurements of assigned transitions with well-defined quantum numbers and frequencies, which are ideal for MARVEL input. While 'mechanisms' may involve theory, it's very likely tied to new experimental data.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Submillimeter-wave spectrum and spectroscopic constants of AsH3 in the (0100) and (0001) vibrational states and joint analysis of submillimeter and infrared data",
+      "authors": [
+        "V.P. Kazakov",
+        "A.F. Krupnov",
+        "V.N. Saveliev",
+        "O.N. Ulenikov"
+      ],
+      "year": 1987,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(87)90283-9",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 13,
+      "url": "https://doi.org/10.1016/0022-2852(87)90283-9",
+      "type": "journal-article",
+      "page": "340-355",
+      "volume": "123",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'submillimeter-wave spectrum' and 'infrared data', indicating experimental spectroscopic measurements. 'Spectroscopic constants' are derived from assigned transitions, which are precisely the type of data (assigned transitions, frequencies, uncertainties) required for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Microwave spectra of deuterated arsines: Distortion moment transitions of AsD3, microwave spectra of AsH2D and AsHD2, and the structure of arsine",
+      "authors": [
+        "Glenn A. McRae",
+        "M.C.L. Gerry",
+        "M. Wong",
+        "I. Ozier",
+        "E.A. Cohen"
+      ],
+      "year": 1987,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(87)90282-7",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 17,
+      "url": "https://doi.org/10.1016/0022-2852(87)90282-7",
+      "type": "journal-article",
+      "page": "321-339",
+      "volume": "123",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.8,
+        "reasoning": "The paper reports 'microwave spectra' of 'deuterated arsines' (AsD3, AsH2D, AsHD2) and mentions 'the structure of arsine'. Microwave spectroscopy provides high-precision, assigned experimental transitions with uncertainties, which are ideal for MARVEL, even for isotopologues. While not exclusively AsH3, data on isotopologues is highly valuable for the comprehensive dataset.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Direct l-type doubling transitions in the v4 = 1 state of AsH3",
+      "authors": [
+        "F. Scappini",
+        "G. Di Lonardo",
+        "A. Guarnieri",
+        "A.F. Krupnov",
+        "V.P. Kazakov"
+      ],
+      "year": 1985,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(85)90169-9",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 8,
+      "url": "https://doi.org/10.1016/0022-2852(85)90169-9",
+      "type": "journal-article",
+      "page": "377-383",
+      "volume": "112",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This paper is highly relevant. It explicitly mentions 'AsH3' and 'transitions' ('l-type doubling transitions'), implying experimental measurements with assigned quantum numbers and frequencies, which are ideal inputs for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "A contribution to the laser spectroscopy of arsine",
+      "authors": ["F. Scappini", "L. Fusina", "G. Di Lonardo"],
+      "year": 1984,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(84)90020-1",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 8,
+      "url": "https://doi.org/10.1016/0022-2852(84)90020-1",
+      "type": "journal-article",
+      "page": "419-420",
+      "volume": "107",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'arsine' (AsH3) and 'laser spectroscopy,' which strongly suggests the presence of experimental spectroscopic data, likely with high resolution and assigned transitions suitable for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "The ν2 and ν4 bands of AsH3",
+      "authors": ["G. Di Lonardo", "L. Fusina", "J.W.C. Johns"],
+      "year": 1984,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(84)90122-x",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 52,
+      "url": "https://doi.org/10.1016/0022-2852(84)90122-x",
+      "type": "journal-article",
+      "page": "282-301",
+      "volume": "104",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'AsH3' and specific 'ν2 and ν4 bands,' which indicates an experimental spectroscopic study of arsine's vibrational modes. Such a study is highly likely to contain assigned experimental transitions and frequencies usable for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "The electric dipole moment of AsH3 by saturation laser stark spectroscopy",
+      "authors": ["G. Di Lonardo", "L. Fusina", "A. Trombetti"],
+      "year": 1984,
+      "venue": "Chemical Physics Letters",
+      "doi": "10.1016/0009-2614(84)87081-5",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 10,
+      "url": "https://doi.org/10.1016/0009-2614(84)87081-5",
+      "type": "journal-article",
+      "page": "513-516",
+      "volume": "110",
+      "issue": "5",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This paper explicitly mentions 'AsH3' (arsine) and 'saturation laser stark spectroscopy'. This technique is known for high-resolution measurements of molecular transitions (rovibrational/rotational) which are highly likely to provide assigned experimental transitions, frequencies, and uncertainties, ideal for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Far infrared spectrum and spectroscopic constants of AsH3 in the ground state",
+      "authors": ["M. Carlotti", "G. Di Lonardo", "L. Fusina"],
+      "year": 1983,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(83)90043-7",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 41,
+      "url": "https://doi.org/10.1016/0022-2852(83)90043-7",
+      "type": "journal-article",
+      "page": "310-319",
+      "volume": "102",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This paper directly mentions 'AsH3' and 'Far infrared spectrum' and 'spectroscopic constants', strongly indicating experimental measurements of AsH3 transitions with potential for quantum number assignments and frequencies usable by MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Laser Stark Spectroscopy of AsH3 Using 9.4 and 10.6 μm CO2 Laser",
+      "authors": ["Kuniaki Nakagawa", "Yoshifumi Ueda", "Kozo Kuchitsu"],
+      "year": 1983,
+      "venue": "Bulletin of the Chemical Society of Japan",
+      "doi": "10.1246/bcsj.56.937",
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Perturbation-allowed transitions of the v2 and v4 bands of AsH3 were observed. About 100 Stark components were assigned to six Δ(k-l)=0, six Δ(k-l)=±3, and three Δ(k-l)=±6 transitions. The Stark patterns and hyperfine splittings were used for confirming the assignment.</jats:p>",
+      "publisher": "Oxford University Press (OUP)",
+      "citation_count": 3,
+      "url": "https://doi.org/10.1246/bcsj.56.937",
+      "type": "journal-article",
+      "page": "937-938",
+      "volume": "56",
+      "issue": "3",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'Laser Stark Spectroscopy,' which is a high-resolution experimental technique known to provide assigned transitions with precise frequencies and uncertainties, perfectly matching the MARVEL algorithm input requirements.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Submillimeter spectrum and spectroscopic constants of the arsine molecule in the ground vibrational state",
+      "authors": [
+        "A.V. Burenin",
+        "V.P. Kazakov",
+        "A.F. Krupnov",
+        "A.A. Mel'nikov",
+        "S.M. Shapin"
+      ],
+      "year": 1982,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(82)90003-0",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 16,
+      "url": "https://doi.org/10.1016/0022-2852(82)90003-0",
+      "type": "journal-article",
+      "page": "253-263",
+      "volume": "94",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This title explicitly mentions 'arsine molecule' and 'submillimeter spectrum and spectroscopic constants', indicating experimental, high-resolution data on AsH3, highly suitable for MARVEL input including assigned transitions and constants.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Radiofrequency spectroscopy of AsH3 inside a CO2N2O laser cavity",
+      "authors": ["F. Scappini", "Takeshi Oka"],
+      "year": 1981,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/0022-2852(81)90211-3",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 14,
+      "url": "https://doi.org/10.1016/0022-2852(81)90211-3",
+      "type": "journal-article",
+      "page": "390-398",
+      "volume": "85",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'Radiofrequency spectroscopy,' which strongly indicates experimental spectroscopic data on arsine. This type of study is highly likely to contain assigned experimental transitions with well-defined quantum numbers, measured frequencies, and reported uncertainties, making it ideal for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    }
+  ]
+}

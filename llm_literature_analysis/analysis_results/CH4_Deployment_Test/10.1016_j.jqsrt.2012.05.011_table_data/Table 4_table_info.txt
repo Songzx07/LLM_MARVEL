@@ -1,0 +1,24 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2012.05.011
+Table Title: Table 4: Sample of the WKMC@80K+ line list for methane in the 5852–7919cm⁻¹ region.
+================================================================================
+
+Table Caption: Sample of the WKMC@80K+ line list for methane in the 5852–7919cm^{−1} region.
+
+Uncertainty Information: 0.001cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. [tbl4fna] Isotopologue identification: No mark: ^{12}CH_{4}; ^{13}C: ^{13}CH_{4}, ^{12}C/CH_{3}D: blended lines involving ^{12}CH_{4} and CH_{3}D. Note that intensities of the CH_{3}D lines in the WKMC list correspond to a 5.0×10^{−4} relative abundance while a value of 6.157×10^{−4} is adopted in the HITRAN database.
+  2. [tbl4fnb] Line position measured by DAS or CRDS at 80K except for the added lines (A) transferred from the 296K list.
+  3. [tbl4fnc] Lower state energy values: all the values are empirical values obtained by the 2T-method except: (i) additional E″ values transferred from the literature according to the reference given in the last column, (ii) E″ = –1.00cm^{−1} values adopted for single lines observed only at 80 K (iii) E″ values calculated according to Eq. (1) for the lines transferred from the 296K line list (A).
+  4. [tbl4fnd] Empirical J values of CH_{4} transitions obtained from E=5.241×J (J+1)cm^{−1} except when transferred from the literature.
+  5. [tbl4fne] Reference study used to complete the set of lower state energy values: N and NT: Nikitin et al. [16], L: Lu et al. [6], G and GA: GOSAT [26], U: Ulenikov et al. [29], Ly: Lyulin et al. [27].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

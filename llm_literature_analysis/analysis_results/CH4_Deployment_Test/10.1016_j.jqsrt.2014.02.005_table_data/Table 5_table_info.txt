@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2014.02.005
+Table Title: Table 5: Sample of electronic Supplementary data. Calculated and observed methane transitions in the 4800–5300cm^{−1} region.
+================================================================================
+
+Table Caption: Sample of electronic Supplementary data. Calculated and observed methane transitions in the 4800–5300cm^{−1} region.
+
+Uncertainty Information: 0.004 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes: In this table, the columns are: 1. ν_{0}: line positions (+means experimental data; otherwise calculated). 2. I (296K): line intensities in cm^{−1}/(moleculecm^{−2}) at 296K (+means experimental value normalized to 296K; otherwise calculated from dipole moment modeling). 3. Lower state rovibrational assignment are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T _{ d } irreducible representation) and the rovibration ranking index α. 4. Upper state rovibrational assignment in the same format. 5. Difference between observed and calculated line position included in the fit in 10^{−3} cm^{−1} units. These values appear for assigned lines only and their intensities are recalculated from 290K to 296K. 6. Io−Ic (%) is the relative difference between observed and calculated intensities included in the fit. These values appear for assigned lines if their observed intensities were included in the fit. 7. The vibrational band assignment: contains the principal vibrational quanta (ν_{1},ν_{2},ν_{3},ν_{4}) and vibrational symmetry type C _{ v } (T _{ d } irreducible representation). 8. E″=E lower: lower energy value [in cm^{−1}].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 5_table_data.csv
+Info file: Table 5_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

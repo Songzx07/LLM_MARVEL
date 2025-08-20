@@ -1,0 +1,1023 @@
+{
+  "success": true,
+  "total_files": 33,
+  "results": [
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1006_jmsp.2000.8065.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports on the analysis of linestrengths in the high-resolution infrared spectrum of methane using new Fourier transform spectra and previously reported laser data. This involves high-resolution spectroscopy, rovibrational analysis, and effective transition moment modeling, which relies on precise transition wavenumbers and quantum number assignments. Therefore, the content is relevant to the spectroscopic data and analysis methods used by MARVEL, even if the primary focus is on linestrengths rather than energy levels directly."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The abstract mentions 'new measurements' from 'Fourier transform spectra' and 'previously reported tunable difference-frequency laser data' that were used in a 'simultaneous fit'. However, the abstract does not explicitly state that new, fully assigned transition wavenumbers (line positions) with associated uncertainties are *provided* as an output or a primary data set in the paper. The focus is on the analysis of 'linestrengths' and 'integrated bandstrengths'.",
+            "need_pdf": false,
+            "has_uncertainty": false,
+            "uncertainty_description": "The abstract mentions 'experimental precision: 3 and 1.5%, respectively, for the two sets of data for the 12CH4 molecule'. This precision refers to the standard deviations achieved in the *fit of linestrengths*, not the measurement uncertainty of individual transition wavenumbers, which is what MARVEL requires.",
+            "uncertainty_value": "not available",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "The paper is relevant to MARVEL's goals as it deals with high-resolution rovibrational spectroscopy and analysis, which are foundational to MARVEL's purpose. However, based solely on the provided abstract, it does not explicitly offer new, fully assigned transition wavenumbers with stated uncertainties that would be directly compatible as input for the MARVEL algorithm. The data discussed primarily relates to linestrengths and their modeling."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1006_jmsp.2001.8364.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL goals. It describes the analysis of the rovibrational octad system of methane using a Hamiltonian for energy levels and dipole moment expansion for intensities. It explicitly mentions using \"nearly 8000 assigned positions\" obtained from a Fourier transform spectrometer. This directly aligns with MARVEL's objective of reconstructing molecular energy level structures from experimental spectroscopic data (transition wavenumbers) with quantum number assignments."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The abstract states that \"Nearly 8000 assigned positions\" have been considered in the modeling. This implies the existence of measured transition wavenumbers (positions) with corresponding quantum number assignments for both upper and lower states. While the data itself is not presented in the abstract, its existence and use in the analysis are clearly indicated. The format would typically be tables or structured lists.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The abstract mentions that the measurements have 'inherent experimental precisions', indicating that uncertainties associated with the transition wavenumbers are known and were considered.",
+            "uncertainty_value": "not available",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL due to its focus on high-resolution rovibrational spectroscopy, energy level modeling, and the use of a large dataset of assigned molecular transitions. The abstract indicates that MARVEL-compatible experimental data, specifically 'nearly 8000 assigned positions' with 'inherent experimental precisions' (uncertainties), exist and were used for the analysis. To obtain this data for MARVEL input, the full paper (and likely its supplementary materials) would be required."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1006_jmsp.2001.8380.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL goals. It describes the investigation of a molecular spectrum, the 'first assignment and analysis' of a rovibrational band (4ν_{4}), and the modeling of 'nearly 190 line positions'. This involves high-resolution spectroscopy, rovibrational analysis, and transition assignment, which are core activities aligned with MARVEL's objective of reconstructing molecular energy levels from experimental data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The abstract indicates that 'Nearly 190 line positions' have been assigned and modeled. While the abstract does not explicitly state the format (e.g., specific tables or supplementary material), it is strongly implied that these assigned line positions, which are the result of the 'first assignment and analysis', would be presented in the full paper in a structured format suitable for MARVEL. The data itself cannot be obtained from the abstract.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainty for the line positions is given as the standard deviation of the fit.",
+            "uncertainty_value": "0.107 cm^{-1}",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL because it describes the high-resolution spectroscopic analysis and assignment of a molecular band, resulting in assigned line positions. It is highly probable that the full paper contains MARVEL-compatible experimental data, specifically the 'nearly 190 line positions' with their full quantum number assignments (implied by 'assignment and analysis') and the stated uncertainty (0.107 cm^{-1}). Access to the full PDF would be required to retrieve the actual data tables."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.icarus.2022.115421.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper describes high-resolution rovibrational spectroscopy of methane using Cavity Ringdown Spectroscopy (CRDS), focusing on identifying and assigning new hot band transitions. The objective is to improve line lists for atmospheric modeling, which aligns directly with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data and creating comprehensive line lists. The paper specifically mentions that 'new hot band transitions... were assigned and are provided as a line list for use in future databases', which is a core output type that MARVEL helps produce or is informed by."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The experimental data, specifically a set of 22 newly assigned hot band transitions, are explicitly stated to be listed in Table 3. The table is described as containing observed wavenumbers (ν(obs)) and detailed quantum number assignments for both lower and upper states (ro-vibrational energy E, total rotational angular momentum J, ro-vibrational symmetry C, ranking number n, polyad number P, and vibrational quantum numbers/symmetry vib).",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper states the full width at half maximum (FWHM) for the observed lines: 0.01 cm⁻¹ for lines from the isentropic core (IC) and 0.0215 cm⁻¹ for lines from the shear layers (SL). This provides a clear indication of the spectral resolution and, thus, the precision of the measured line positions, from which an uncertainty can be inferred.",
+            "uncertainty_value": "0.01 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 3: Newly assigned hot band transitions starting from the pentad and the octad polyads."
+              ],
+              "description": "This table is described to contain observed wavenumbers (ν(obs)), calculated wavenumbers (ν(calc)), their difference, and line intensities. Crucially, it provides full quantum number assignments for both lower and upper energy levels, including ro-vibrational energy (E), total rotational angular momentum (J), ro-vibrational symmetry (C), ranking number (n), polyad number (P), Einstein coefficient (A), and vibrational quantum numbers/symmetry (vib)."
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL as it presents new high-resolution experimental rovibrational transitions for methane with full quantum number assignments for both upper and lower states. These data are directly compatible with MARVEL's input requirements for reconstructing molecular energy levels. The uncertainties can be inferred from the stated line FWHM values (e.g., 0.01 cm⁻¹). The data is presented in a table described in the main text."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jms.2005.04.007.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL. While its primary focus is on measuring Lorentz self-broadening and self-induced pressure-shift coefficients for methane transitions, it explicitly reports new, high-accuracy measurements of 'line center positions' (transition wavenumbers) for 1423 rovibrational transitions of ^{12}CH_{4} in the octad region. Crucially, it states that these measurements are accompanied by clear quantum number assignments for both upper and lower states (J, C, and n) and their associated uncertainties. These data elements (transition wavenumbers, full quantum assignments, and uncertainties) are the core inputs required by the MARVEL algorithm for reconstructing molecular energy levels."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that 'The full list of the individual measurements is presented in Appendix 1.' and further notes that 'Supplementary data for this article are available on ScienceDirect... and as part of the Ohio State University Molecular Spectroscopy Archives...'. It specifies that 'Table S1 Self-broadened coefficients of methane in the octad region' is part of the supplementary data, which corresponds to the full list of measurements described in Appendix 1. This data format is expected to be a structured list or table containing transition wavenumbers, uncertainties, and upper/lower state quantum numbers.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper explicitly states the absolute accuracy of the measured line center positions: 'For isolated methane lines, the absolute accuracy in our measured line center positions is about ±0.00008cm^{−1} or better.'",
+            "uncertainty_value": "0.00008 cm^{-1}",
+            "table_info": {
+              "table_title": [
+                "Appendix 1",
+                "Table S1 Self-broadened coefficients of methane in the octad region"
+              ],
+              "description": "Appendix 1, likely corresponding to Table S1 in the supplementary material, is described as containing the full list of individual measurements. These measurements include the 'measured positions in cm^{−1}', 'self-broadened widths and pressure-induced shifts', and critically, 'the upper and lower state quantum numbers J, C (A1, A2, F1, F2, and E) and n; the prime denotes the upper state and the double prime denotes the lower state'. It also notes that 'The parentheses indicate the experimental uncertainties' for these values."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL. It provides new, high-resolution experimental data for ^{12}CH_{4} in the octad region, specifically reporting 1423 measured rovibrational transition wavenumbers. These transitions are fully assigned with upper and lower state quantum numbers (J, C, n), and their uncertainties are clearly stated (±0.00008 cm^{-1}). The complete dataset is indicated to be available in Appendix 1 and supplementary materials (Table S1), making it directly compatible with the input requirements for the MARVEL algorithm to reconstruct molecular energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jms.2013.03.001.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL's goals. It focuses on high-resolution spectroscopy of methane, providing 'empirical lists' of absorption lines, including their positions (wavenumbers) and derived lower state energy levels. It aims to improve existing spectroscopic databases (HITRAN, GEISA) by compiling comprehensive line lists based on experimental measurements (DAS and CRDS). The work involves characterization of molecular transitions and energy levels, which is conceptually aligned with MARVEL's objective of reconstructing molecular energy level structures from spectroscopic data. The discussion of isotopologue identification and the derivation/transfer of lower state energy levels also indicates a strong connection to molecular spectroscopy and energy level characterization."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The line lists (WKLMC@296K+ and WKLMC@80K+) are provided as supplementary material, with samples presented in Tables 2 and 3. The lists contain measured transition wavenumbers (positions), intensities, isotopologue identification, and derived lower state empirical energy (E_emp) and corresponding lower state empirical J values. However, the lists do not include full quantum number assignments for both the upper and lower states for the majority of the transitions, as explicitly implied by the paper stating that theoretical treatment is necessary for rovibrational assignment.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "Uncertainty for line centers is inferred from the coincidence criterion used to associate lines, stating that differences of less than 0.002 cm⁻¹ were used for strong lines, and up to 0.003 cm⁻¹ for weaker lines.",
+            "uncertainty_value": "0.002-0.003 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 2: Sample of the WKLMC@296K line list for methane.",
+                "Table 3: Sample of the WKLMC@80K+ line list for methane."
+              ],
+              "description": "These tables provide sample entries from the WKLMC line lists for methane at 296K and 80K, respectively. They include measured transition positions (wavenumbers), intensities, isotopologue identification, and derived lower state empirical energies (E_emp) and J values."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL's goals due to its focus on high-resolution molecular spectroscopy and the compilation of extensive empirical line lists for methane, including measured transition wavenumbers and derived lower state energies. However, the experimental data provided in the WKLMC lists are not fully compatible with MARVEL's requirements for direct input. While transition wavenumbers and their uncertainties are available, the lists lack comprehensive quantum number assignments for both the upper and lower states for all transitions. The paper explicitly states that theoretical treatment is necessary to 'rovibrationally assigned the measured transitions,' indicating that the provided empirical lists do not contain the full assignments required by MARVEL."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2004.12.037.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper describes high-resolution Fourier Transform Spectroscopy measurements of methane line positions and intensities, aiming to compile a comprehensive spectroscopic database. It discusses the challenges of obtaining quantum assignments and the importance of lower state energies for understanding the spectrum. Although a large portion of the data is unassigned, the overall research goal of characterizing rovibrational transitions and their associated energy levels is directly aligned with MARVEL's objective of reconstructing molecular energy level structures from assigned transitions."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper describes the compilation of 40,256 measured line positions and intensities into a HITRAN-like format. However, it explicitly states that only 1% of these lines have quantum number assignments for both upper and lower states. For the unassigned lines (99%), artificial lower state energies were used. The full line-by-line data with assignments is not provided in the text or listed tables, but rather as a compilation incorporated into HITRAN.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "Uncertainties for isolated line positions are stated: ±0.0007cm⁻¹ at 5000cm⁻¹ and ±0.0015cm⁻¹ at 7000cm⁻¹. For lines above 8000cm⁻¹, the absolute accuracy may be only 0.005cm⁻¹ due to pressure shifts. The instrumental resolution is 0.010–0.022cm⁻¹.",
+            "uncertainty_value": "0.0007 cm⁻¹ at 5000 cm⁻¹; 0.0015 cm⁻¹ at 7000 cm⁻¹; 0.005 cm⁻¹ above 8000 cm⁻¹",
+            "table_info": {
+              "table_title": [],
+              "description": ""
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "The paper is relevant to MARVEL's goals as it focuses on high-resolution rovibrational spectroscopy and the interpretation of molecular energy levels for methane. It reports a large number of newly measured line positions and their associated uncertainties. However, only 1% of these lines have been assigned with quantum numbers for both upper and lower states, which is a critical requirement for MARVEL's energy level reconstruction algorithm. Therefore, while relevant in scope, the paper does not provide MARVEL-compatible experimental data in a directly usable format for its primary purpose of energy level determination."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2009.02.004.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution absorption spectroscopy of methane, measuring positions (wavenumbers) and strengths of 3473 transitions. Crucially, it determines lower state energy values (E) and rotational quantum numbers (J) for 1273 of these transitions (and less reliably for an additional 266). This process of characterizing and deriving molecular energy levels (even if only lower states in this case) from experimental spectroscopic data is directly aligned with the MARVEL algorithm's goal of reconstructing molecular energy level structures."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The complete list of 3473 measured transitions is stated to be provided as Supplementary Material, with a sample reproduced in Table 1. This list includes the LNT line strength, corresponding RT line strength (from HITRAN), and lower state E and J values when available (for 1273 transitions). The other 2200 transitions are included without J values.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainty on the LNT line positions is explicitly stated as ±0.001 cm⁻¹.",
+            "uncertainty_value": "0.001 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 1: Wavenumbers and strengths of the absorption lines of methane recorded at 81K near 7394cm^{−1}."
+              ],
+              "description": "A sample of the complete LNT line list, showing wavenumbers and strengths, and, according to the text description of the supplementary material, likely including lower state E and J values."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is relevant to MARVEL's goals due to its focus on high-resolution spectroscopy and the determination of lower state energy levels and rotational quantum numbers from measured transitions. However, it does not provide MARVEL-compatible experimental data because, while it offers measured transition wavenumbers and associated uncertainties, it explicitly states that only lower state J (and E) values are determined for a subset of the transitions, and crucially, no upper state quantum number assignments are provided for any of the 3473 measured transitions. MARVEL requires full quantum number assignments for both upper and lower states to reconstruct energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2009.02.012.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL because it reports the measurement and retrieval of 'spectral line parameters', which explicitly include 'line position' for 452 assigned CH₄ transitions. It utilizes high-resolution Fourier Transform Spectroscopy and clearly defines the quantum number assignments (P J C N) for the rovibrational states. While the main objective is the determination of broadening and shifting coefficients, the output includes precisely determined line positions with full quantum assignments, which are the fundamental input data for the MARVEL algorithm to reconstruct molecular energy levels."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that the obtained 'line position, line intensity, self-broadening, self-shifting coefficients, buffer gas broadening, and shifting coefficients for each selected line for three temperatures' are available in the Supplementary Materials. Table 2 is presented as a 'Sample of retrieved broadening and shifting parameters of methane', implying that line positions (among other parameters) are listed. The full data would likely be in tabular format within the supplementary materials.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The spectrometer resolution was stated as 0.005 cm⁻¹, from which the uncertainty in line positions can be inferred. The paper also details a calibration procedure for the wavenumber scale, indicating care in determining precise line positions.",
+            "uncertainty_value": "0.005 cm⁻¹ (inferred from spectrometer resolution)",
+            "table_info": {
+              "table_title": [
+                "Table 2: Sample of retrieved broadening and shifting parameters of methane"
+              ],
+              "description": "Table 2 is described as a sample of retrieved parameters, which, based on the text, should include line positions along with broadening and shifting coefficients. The full set of 452 assigned lines with their determined line positions, uncertainties, and full quantum assignments is expected to be in the Supplementary Materials."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides experimentally determined transition wavenumbers (line positions) with full quantum number assignments for 452 CH₄ lines. Although the primary focus of the paper is on broadening and shifting coefficients, the line positions are a direct output of their analysis and are stated to be available in supplementary materials. The spectrometer resolution of 0.005 cm⁻¹ allows for an inference of the uncertainty in the measured line positions, making the data compatible with MARVEL's requirements. Access to the supplementary PDF is needed to obtain the full dataset."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2010.01.017.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution Fourier transform spectroscopy of the ν₄ band of ¹²CH₄. It reports 'accurate values for line positions' (transition wavenumbers) for over 400 transitions and explicitly states that these line positions are listed in the Appendix along with 'upper and lower-state quantum numbers: J, n, and C'. This directly aligns with MARVEL's goal of reconstructing molecular energy level structures from experimentally measured transition wavenumbers with full quantum number assignments."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that the measured line positions, intensities, self-broadening parameters, and quantum numbers are listed in an 'Appendix'. It describes the Appendix format as containing 'the measured line positions (in cm⁻¹), the self-broadened half width coefficients, and the self-induced pressure shift coefficients' along with 'upper and lower-state quantum numbers: J, n, and C'. This implies a tabular format. Additionally, it mentions 'Supplementary data associated with this article can be found in the online version'. Full data access would require the PDF or supplementary material.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper states: 'the absolute uncertainty in positions is estimated to be ±0.0001cm⁻¹'. It also mentions 'statistical uncertainties in the measured quantities are given in parentheses and correspond to one standard deviation of uncertainty in units of the last quoted digit' for parameters listed in the Appendix.",
+            "uncertainty_value": "0.0001 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Appendix"
+              ],
+              "description": "The Appendix contains measured line positions (in cm⁻¹), self-broadened half width coefficients, self-induced pressure shift coefficients, and upper/lower state quantum numbers (J, n, C) for over 400 allowed and forbidden transitions in the ν₄ band of ¹²CH₄."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides new, high-resolution experimental data for ¹²CH₄, specifically 'line positions' (transition wavenumbers) for over 400 transitions in the ν₄ band. Crucially, these measurements are accompanied by full quantum number assignments for both upper and lower states (J, n, C) and a clearly stated absolute uncertainty for line positions of ±0.0001 cm⁻¹. This data, described as being in the 'Appendix' and supplementary materials, is precisely the type of input required by the MARVEL algorithm for reconstructing molecular energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2010.02.006.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution Fourier transform infrared (FTIR) spectroscopy of methane (CH4) in the THz region, observing its pure rotational spectrum. It involves the measurement of individual spectral line positions (wavenumbers) and their intensities, along with quantum number assignments for these transitions (GS-GS and Dyad-Dyad hot bands). While the primary goal is to determine effective dipole moment parameters from intensities, the core data (high-resolution transition wavenumbers and their quantum number assignments) are precisely the type of input required by the MARVEL algorithm for reconstructing molecular energy levels. The paper explicitly mentions 'Line assignments were thus straightforward. They are also given in Table A1,' confirming the availability of assigned transitions."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that measured line intensities and line assignments are listed in 'Table A1', which is also provided in ASCII form as supplementary material. The text indicates that 'All the measurements performed involved the adjustment of the position, the intensity and the pressure self-broadening parameter of each line,' implying that line positions (wavenumbers) were measured and are part of the dataset.",
+            "need_pdf": false,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper specifies the instrumental resolution (FWHM of the sinc function) for the recorded spectra, which can be used to infer the uncertainty of the measured line positions. Resolutions were given as 0.00074, 0.00134, 0.0034, and 0.0067 cm⁻¹. The most precise measurement has a resolution of 0.00074 cm⁻¹.",
+            "uncertainty_value": "0.00074 cm⁻¹ (inferred from highest resolution)",
+            "table_info": {
+              "table_title": [
+                "Table A1: Intensities (cm^{−1}/(moleculecm^{−2}) at 296K) measured for pure rotational lines of ^{12}CH_{4}, in natural abundance."
+              ],
+              "description": "Table A1 is described as containing measured intensities and line assignments for pure rotational lines of ¹²CH₄. It is expected to include the corresponding measured wavenumbers given the context of spectroscopic line measurements."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It presents high-resolution experimental spectroscopic data for methane's pure rotational spectrum. The crucial elements for MARVEL, namely measured transition wavenumbers (implied by 'adjustment of the position' and 'measured lines') and their full quantum number assignments (explicitly stated 'line assignments... given in Table A1'), are available. Although the paper's main focus is on line intensities and dipole moments, the underlying measured and assigned line positions are compatible with MARVEL's requirements. The data, including assignments and likely wavenumbers, are stated to be in Table A1, which is available as supplementary material. The instrumental resolution is provided, from which line position uncertainties can be inferred."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2010.05.010.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL. It focuses on high-resolution Fourier Transform Spectroscopy measurements of methane (CH4) to generate a spectral line list. This list includes 'line position' (wavenumbers) and 'quantum number assignments' (both complete and partial) for rovibrational transitions. The text explicitly mentions the 'assignment of the spectral line parameters' and the need to 'solve the inverse spectroscopic problem using an effective Hamiltonian model' to achieve total assignment, which directly aligns with MARVEL's goal of reconstructing molecular energy levels from such data. The paper provides the essential inputs for MARVEL: measured transition wavenumbers, associated quantum number assignments, and information to infer uncertainties."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that a methane spectral line list, prepared in HITRAN-2008 format, is presented as Supplementary Material. This list contains 'position, intensity, energy for lower state (where possible), air-broadening and air-shifting coefficients, exponent of temperature dependence of air-broadening coefficient and self-broadening coefficient'. It specifies that 2918 lines are 'completely assigned' (implying both upper and lower state quantum numbers), while an additional 1576 lines have 'partial assignment of the lower state (J value)'. Only the 2918 completely assigned lines are compatible with MARVEL's requirement for full upper and lower state quantum number assignments.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The unapodized spectral resolution of the measurements was 0.005 cm⁻¹. The paper also mentions that 'The agreement between HITRAN-2008 and our values of the line positions is on average within 0.001cm⁻¹'. This indicates the precision of the line positions.",
+            "uncertainty_value": "0.005 cm⁻¹ (inferred from resolution)",
+            "table_info": {
+              "table_title": [],
+              "description": "The full line list with MARVEL-compatible data (transition wavenumbers with full quantum number assignments and uncertainties) is stated to be in the Supplementary Material. The paper mentions 'Table 2: Line parameters of 2ν₃(F₂) band of CH₄' but this table appears to be a comparison of selected parameters rather than the comprehensive line list for MARVEL input. The primary data source is the supplementary material, which is described but not given a specific table title in the provided text."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL as it details the experimental measurement and assignment of high-resolution rovibrational transitions for methane. It provides MARVEL-compatible experimental data in the form of measured transition wavenumbers and associated quantum number assignments (for 2918 lines). The uncertainties can be inferred from the stated spectral resolution. The full data set is available in the supplementary material, making it suitable for direct input into the MARVEL algorithm."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2010.08.006.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on the high-resolution experimental and theoretical analysis of rovibrational transitions of ^{12}CH_{4}, including the first assignment of specific 5-quanta band systems. Its core objective is to determine and model molecular energy levels and construct an accurate line list based on experimental data, which directly aligns with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data and quantum number assignments."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that a \"global ^{12}CH_{4} line list\" of \"calculated and observed transitions\" is provided in \"electronic supplementary materials: Appendix A\", with Table 4 showing a sample. Additionally, \"Appendices B and C\" contain \"experimental FTS transitions\" used for model construction. This implies the data is presented in tabular format within supplementary materials.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper explicitly states that \"About 1955 experimental line positions... were fitted with RMS standard deviations of 0.003cm^{−1}\". This RMS deviation indicates the uncertainty of the fitted line positions. It also mentions calibration standard deviations for FTS spectra (e.g., 2.18×10^{–4} cm^{−1}) and CRDS precision (1×10^{−3} cm^{−1}).",
+            "uncertainty_value": "0.003 cm^{-1}",
+            "table_info": {
+              "table_title": [
+                "Table 4: Sample extracted from the line list attached as electronic supplementary data. Calculated and observed methane transitions in the 6287–6550cm^{−1} region."
+              ],
+              "description": "Table 4 is a sample of the full line list which contains calculated and observed methane transitions, provided as electronic supplementary data in Appendix A. Appendices B and C also contain complementary experimental FTS transitions."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL as it provides detailed high-resolution spectroscopic analysis and assignment of rovibrational transitions for ^{12}CH_{4}. It contains MARVEL-compatible experimental data, specifically 1955 assigned rovibrational line positions with an associated uncertainty of 0.003 cm^{-1} (RMS standard deviation). This data is available in electronic supplementary materials, as indicated by the text mentioning Appendices A, B, and C containing line lists with observed and assigned transitions."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2012.08.025.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution rovibrational spectroscopy of ^12CH4, reporting new assignments of rovibrational transitions. It involves detailed analysis of line positions and intensities to improve the global effective Hamiltonian and dipole moment parameters of the Octad system. This directly aligns with MARVEL's goal of understanding molecular energy level structures from experimental spectroscopic data, as the new measurements and assignments are used to refine the theoretical description of these energy levels."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper describes a 'line list' format with fields like 'Nu' (calculated line position), 'F_o−F_c' (difference between observed and calculated line positions), and 'P J C N' for rovibrational assignments of both upper and lower levels. A sample of this line list is shown in Table 2, and the full list is explicitly stated to be available as supplementary material. Observed line positions can be reconstructed from the provided 'Nu' and 'F_o-F_c' values.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainty of measured line positions can be inferred from the reported spectrometer resolution (0.008 cm^-1) and the standard deviations from wavenumber calibration procedures, which are stated as 0.00013 cm^-1 for CH4 lines and 0.000056 to 0.00023 cm^-1 for CO2 reference lines.",
+            "uncertainty_value": "0.00013 cm^-1",
+            "table_info": {
+              "table_title": [
+                "Table 2"
+              ],
+              "description": "Table 2 is a 'Sample extracted from the line list attached as electronic supplementary data'. It details the format for rovibrational assignments of upper and lower levels ('P J C N'), calculated line positions ('Nu'), and observed-calculated differences ('F_o−F_c'), which allow for the reconstruction of observed line positions."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It presents new experimentally measured and fully assigned rovibrational transition wavenumbers for ^12CH4, which are crucial inputs for the MARVEL algorithm. While explicit per-line uncertainty values are not provided in the text snippet, the experimental precision is well-described through instrument resolution and calibration uncertainties, allowing uncertainty to be reasonably inferred. The complete set of MARVEL-compatible experimental data, including observed line positions and full quantum number assignments, is available in the supplementary material."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2012.11.024.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL goals. It describes the experimental acquisition and precise determination of molecular line center frequencies (transition frequencies) for methane and acetylene using dual-comb spectroscopy. The objective is to establish 'absolute frequency references' and provide 'accurate line-center frequencies' with associated uncertainties, which are direct inputs for energy level reconstruction algorithms like MARVEL. The paper explicitly mentions 'Line assignments' for methane and refers to external databases (Ref. [8]) for these assignments, which aligns perfectly with the data requirements for MARVEL."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that line-center frequencies and their uncertainties are presented in Table 1 (for acetylene), Table 2 (for 46 isolated methane lines), and more extensively in supplementary tables for a total of 1153 methane lines. The actual data tables are not provided in the snippet, but their content and format are described.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "Absolute frequency uncertainties are explicitly stated. For acetylene, the absolute accuracy is approximately 0.2 MHz. For methane, the average uncertainty for the 46 lines is 1.2 MHz, with some lines reported with uncertainties less than 0.5 MHz. For the larger set of 1153 methane lines in the supplementary tables, uncertainties for isolated lines are as low as 0.3 MHz, while uncertainties for overlapping lines average 54 MHz.",
+            "uncertainty_value": "0.2 MHz (acetylene), 0.3-54 MHz (methane, depending on line isolation).",
+            "table_info": {
+              "table_title": [
+                "Table 1: Absolute line-center frequencies, ν _{0}, for ^{12}C_{2}H_{2}in the ν _{1}+ν _{3} band and their absolute frequency uncertainty, σ.",
+                "Table 2: Absolute line-center frequencies, ν _{0}, for the 46 strong, isolated ^{12}CH_{4} lines and their absolute frequency uncertainty, σ."
+              ],
+              "description": "Table 1 contains absolute line-center frequencies and uncertainties for acetylene. Table 2 contains absolute line-center frequencies, uncertainties, and line assignments (from Ref. [8]) for 46 strong, isolated methane lines, noting some lines are unassigned. The paper also states that 'The intensities, line-center frequencies and uncertainties are provided in the supplementary tables' for a total of 1153 methane lines, which are 'based on the lines reported in Ref. [8]' implying assignments are included."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides new, high-accuracy measured transition frequencies for both acetylene and methane. Uncertainties are clearly stated and quantified. While the provided text for Table 2 mentions 'unassigned lines' for some of the 46 methane lines, the paper states that a larger dataset of 1153 methane lines (which includes the 46) along with their 'intensities, line-center frequencies and uncertainties are provided in the supplementary tables', and crucially, these are 'based on the lines reported in Ref. [8]' (GOSAT database), which typically provides quantum assignments. This strongly indicates that the supplementary material will contain MARVEL-compatible experimental data, including transition frequencies, uncertainties, and quantum number assignments for a significant number of lines, thus meeting MARVEL's data requirements."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2013.08.004.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper performs high-resolution Fourier transform spectroscopy of the ν₂ band of ¹²CH₄. It reports the measurement and analysis of 154 rovibrational transition line positions, along with their associated uncertainties and quantum number assignments for both upper and lower states. These line positions, with their full assignments and uncertainties, are direct inputs for the MARVEL algorithm, which aims to reconstruct molecular energy level structures from such experimental data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The text states that the data (line positions, intensities, broadening/shift parameters, and quantum numbers) are listed in \"Table 2\" and an \"ASCII text version of this table is available as a Supplemental file.\"",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper states that \"the absolute accuracies for the measured line positions of isolated CH₄ ν₂ transitions are within ±0.0001cm⁻¹.\" It also mentions \"The uncertainties associated with each of the measured parameters are also listed next to the appropriate quantities\" in Table 2.",
+            "uncertainty_value": "±0.0001 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 2: Measured spectral line parameters for air- and self-broadening in the methane ν₂ band sorted by |m|."
+              ],
+              "description": "The first few columns in Table 2 list the upper and lower state vibrational quantum numbers of each transition, followed by the measured line positions, absolute line intensities, pressure-broadened half width coefficients, their temperature dependence exponents, pressure-induced shift coefficients and their temperature dependence coefficients. The uncertainties associated with each of the measured parameters are also listed next to the appropriate quantities."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides new high-resolution experimental line positions for 154 transitions in the ν₂ band of ¹²CH₄, complete with explicit upper and lower state quantum number assignments and stated uncertainties. The data is available in a supplementary ASCII text file (Table 2), making it directly compatible for use with the MARVEL algorithm."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2014.02.005.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL. It describes high-resolution spectroscopic measurements of ^{12}CH_{4} line positions and intensities, focusing on the assignment and modeling of rovibrational transitions in the Tetradecad region. The objective is to produce a comprehensive and accurate line list, which directly aligns with MARVEL's goal of reconstructing molecular energy level structures from assigned experimental transitions. The paper explicitly states the measurement of 'experimental line positions', their 'assignments' (for 2725 lines), and their associated 'RMS standard deviations' (uncertainties), which are all key inputs for MARVEL."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper explicitly states that the 'line list for the 4678–5300cm^{−1} region is given as electronic Supplementary data including values for positions and intensities with the (obs.−calc.) residuals for the fitted data.' It also mentions that 'A sample of the Supplementary file is shown in Table 5; this includes the observed minus calculated positions and intensities along with the quantum assignments and lower state energies.' This indicates that the complete dataset, compatible with MARVEL's requirements, is available in the supplementary material.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The RMS standard deviation for the fitted line positions is explicitly stated.",
+            "uncertainty_value": "0.004cm^{−1}",
+            "table_info": {
+              "table_title": [
+                "Table 5"
+              ],
+              "description": "Sample of electronic Supplementary data. Calculated and observed methane transitions in the 4800–5300cm^{−1} region, including observed minus calculated positions, intensities, quantum assignments, and lower state energies."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to the MARVEL algorithm. It presents new experimental measurements of ^{12}CH_{4} rovibrational transitions, including line positions and intensities in the 4800–5300 cm⁻¹ region. Crucially, the paper reports that 2725 of these lines were assigned and fitted with a stated RMS standard deviation of 0.004 cm⁻¹. The full line list, comprising measured positions, intensities, and complete quantum number assignments for both upper and lower states, is available as electronic supplementary data. This dataset is directly compatible with the requirements for the MARVEL algorithm to reconstruct molecular energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2014.11.011.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports high-resolution spectroscopic measurements of methane, focusing on line shape parameters (widths, shifts, line mixing). However, it explicitly states that it retrieved and provides new 'line positions' along with 'upper and lower rotational assignments' and 'uncertainty' for 'a few hundred transitions' (over 320 individual transitions). These are core inputs for the MARVEL algorithm, making the paper relevant for reconstructing molecular energy levels."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that the 'complete lists of all measured parameters for over 320 individual transitions are given in two Supplemental Tables S1 and S2'. Table 4 is described as listing 'upper and lower rotational assignment, line position and its uncertainty' for major transitions.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "Uncertainty for line position is explicitly given for each transition in Table 4 and the supplemental tables. The absolute one sigma standard deviation in measured positions is estimated conservatively to be ±0.0001cm^{−1}.",
+            "uncertainty_value": "0.0001 cm^-1",
+            "table_info": {
+              "table_title": [
+                "Table 4: Measured line parameters for transitions in the ν_{2}+ν_{3} manifolds of ^{12}CH_{4}.",
+                "Supplemental Tables S1 and S2: Measured spectral line parameters for self-broadening in the Octad region of ^{12}CH_{4} (S1) and Measured spectral line parameters for air-broadening in the Octad region of ^{12}CH_{4} (S2)."
+              ],
+              "description": "Table 4 lists line positions, uncertainties, and upper/lower rotational assignments for major manifold transitions. Supplemental Tables S1 and S2 contain the complete lists of all measured line parameters for over 320 individual transitions, including line positions, uncertainties, and quantum assignments, for both self- and air-broadening."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. While its primary focus is on line shape parameters and their temperature dependencies, it reports newly measured line positions with associated uncertainties and full upper and lower quantum number assignments for over 320 rovibrational transitions of ^{12}CH_{4} in the 4500–4630 cm^{-1} region. This data, specifically available in the supplementary material (Tables S1 and S2) and summarized in Table 4, is directly compatible with MARVEL's requirements for reconstructing molecular energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2014.12.003.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on creating and updating a high-resolution spectral line list for methane, which involves experimentally measured line positions (wavenumbers), line intensities, and critical quantum number assignments (specifically lower state energies and J-values, with 'complete assignment' for a significant subset of lines). These elements (measured transition wavenumbers, quantum number assignments for upper and lower states, and uncertainties) are the direct inputs required by the MARVEL algorithm to reconstruct molecular energy level structures. The paper's goal of precisely determining and assigning rovibrational transitions aligns perfectly with the data types MARVEL utilizes for its analysis."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that the 'new version of the GOSAT line list is given in electronic form as Supplementary Material to this paper.' It includes 12,146 lines with parameters such as line position, line intensity, and energy of lower state. The 'format of the line list is demonstrated in Table 2.' While the full data is in supplementary material, the description indicates that 'complete assignment was done for 2750 lines', implying that for these lines, both upper and lower state quantum numbers are available, making them MARVEL-compatible.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The unapodized spectral resolution is stated as 0.005 cm⁻¹, which serves as a basis for inferring the uncertainty in the determined line positions. The paper also mentions 'The uncertainties in the determination of the line position in their case are very small (vary from .5 to 1.2MHz)' when referring to another study, suggesting an awareness of line position precision.",
+            "uncertainty_value": "0.005 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 2: Sample of the GOSAT-2014 line list"
+              ],
+              "description": "This table is mentioned as demonstrating the format of the GOSAT-2014 line list, which is provided in electronic form as supplementary material. It is expected to contain line position, line intensity, and lower state energy, among other parameters."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL's goals as it provides a comprehensive high-resolution spectral line list for methane. It contains newly determined experimental line positions and corresponding quantum number assignments. Specifically, 'complete assignment' is mentioned for at least 2750 lines, which means both upper and lower state quantum numbers are assigned, directly suitable for MARVEL input. The line list, comprising 12,146 transitions, is available as supplementary electronic material. The uncertainty in line positions can be inferred from the stated unapodized spectral resolution of 0.005 cm⁻¹."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2015.09.014.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports an accurate rovibrational analysis of the ^{12}CH_{4} spectrum in the 6539–6800cm⁻¹ region. It focuses on line-by-line assignment of experimentally measured transition wavenumbers and the subsequent empirical optimization of an effective Hamiltonian to model these positions and determine energy levels. The goal of assigning and fitting experimental line positions with high accuracy, along with providing quantum number assignments for both upper and lower states, is directly aligned with MARVEL's objective of reconstructing molecular energy level structures from experimental spectroscopic data. The paper also mentions that its results will contribute to public spectroscopic databases like HITRAN and GEISA, which often serve as input for MARVEL-like analyses."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper explicitly states that the experimental line list used for the analysis, the WKLMC list at 80K in the 6539–6800cm⁻¹ region (comprising about 3500 entries), was provided as 'Supplementary material attached to Ref. [42]'. It also mentions that 'A sample of the Supplementary File is given in Table 3; this includes the observed minus calculated positions and intensities (at 80K) along with the quantum assignments and lower state energies and rovibrational assignments'. This confirms the availability of transition wavenumbers and full quantum number assignments (for both upper and lower states, indicated by 'rovibrational assignments' and 'lower state energies') in a structured list format.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper states that 'About 2445 experimental line positions were fitted with RMS standard deviations of 0.005cm⁻¹' and later, more precisely, 'the RMS deviation of the line position fit for 3270 cold transition (including 5v_{4} transitions) is now 0.0045cm⁻¹'. While this is the RMS of the (Obs.-Calc.) difference, it serves as a strong indicator of the uncertainty of the experimental line positions that were fitted, or the precision achieved in their measurement and subsequent modeling.",
+            "uncertainty_value": "0.0045 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 3: Sample of Electronic Supplementary data. Observed methane transitions with assignment in the 6539–6800cm^{−1} region."
+              ],
+              "description": "This table provides a sample of the electronic supplementary data. It includes observed minus calculated positions and intensities (at 80K) along with the quantum assignments (including lower state energies and rovibrational assignments) for methane transitions in the specified region. The full dataset is stated to be in the supplementary material."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL as it performs a detailed rovibrational analysis and assignment of experimental methane spectra. It provides MARVEL-compatible experimental data in its supplementary material, which includes measured transition wavenumbers, an inferred uncertainty of 0.0045 cm⁻¹, and comprehensive quantum number assignments for both the upper and lower states of the transitions. This data is precisely what MARVEL requires as input to reconstruct molecular energy level structures."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2016.03.024.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper performs high-resolution Fourier transform spectroscopy of methane, focusing on line-shape parameters but also crucially measuring and analyzing rovibrational line positions (transition wavenumbers). It explicitly states that \"upper and lower rotational assignment\" is provided for these measured transitions, which directly aligns with MARVEL's goal of reconstructing molecular energy levels from assigned transition data. The content involves high-resolution spectroscopy, rovibrational analysis, and provides data directly compatible with MARVEL's input requirements."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that \"Full tabulated results are available in the Supplementary Material as Table 7\" for measured wavenumbers and assignments. A sample (Table 3) indicates the presence of measured wavenumber, intensity, and upper/lower state assignments for each transition.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The spectra were recorded at a resolution of 0.005 cm⁻¹. The agreement of measured line positions with HITRAN2012 and GEISA databases is reported to be \"in the order of 10⁻⁴ cm⁻¹\". The multispectrum fitting software allowed to \"optimize the statistical errors and to retrieve precise line parameters\".",
+            "uncertainty_value": "0.005 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 3: Sample table for measured wavenumber $ ( ν ˜ ) $ in cm^{−1}, intensities in cm^{−1}/(moleculecm^{−2}), CH_{4}–air half-width coefficients (air-b) and CH_{4}–CH_{4} half-width coefficients (self-b) of methane in cm^{−1} atm^{−1} obtained by multispectrum fitting using quadratic SDV profile and their temperature exponents n _{1} and n _{2} respectively. US stands for upper state and LS stands for lower state of a line."
+              ],
+              "description": "This sample table and its description indicate that it lists \"upper and lower rotational assignment, line position, line intensity\" for each transition. The full version (Table 7 in Supplementary Material) is expected to contain comprehensive measured wavenumber and assignment data."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL because it presents new high-resolution experimental measurements of rovibrational line positions (transition wavenumbers) for methane. These measured line positions are explicitly stated to be accompanied by \"upper and lower rotational assignment\" for both upper and lower states, which are key inputs for MARVEL. While the primary focus is on line-shape parameters, the fundamental data required for MARVEL is present, and uncertainty can be inferred from the stated instrument resolution. The full, MARVEL-compatible data is indicated to be available in the supplementary material (Table 7)."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2017.04.010.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper is highly relevant to MARVEL goals. It focuses on measuring Doppler-limited rotational transitions of methane with unprecedented frequency accuracy. The objective is to obtain very precise spectroscopic experimental data, including line positions and their uncertainties, and use them in a global fit to update existing spectroscopic databases (like HITRAN and MeCaSDa) and refine molecular parameters. This directly aligns with MARVEL's aim of reconstructing molecular energy levels from accurate experimental transition data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper explicitly states that 10 new measured transitions (4 ground state, 6 hot band) are summarized in Table 1 with their assignments and fitted characteristics. It also mentions supplementary material where detailed results for the vibrational ground state are given, possibly including a full list of calculated transitions or comparisons.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "Uncertainty (δν) on each line frequency was obtained using Landsman's formula for a Gaussian profile, depending mainly on the signal-to-noise (S/N) ratio.",
+            "uncertainty_value": "180 to 480 kHz",
+            "table_info": {
+              "table_title": [
+                "Table 1: Transitions measured in this work, with their assignment and fitted characteristics."
+              ],
+              "description": "Table 1 summarizes the 10 newly measured rotational transitions of methane (4 in the ground state and 6 in the ν4 ← ν4 hot band) observed between 1 and 2.6 THz. It includes their assignments (quantum numbers for upper and lower states) and fitted characteristics, which would encompass the measured frequencies and their uncertainties."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It presents new, high-accuracy experimental line position measurements for methane (CH₄). The paper clearly states that these measured transitions come with explicit quantum number assignments for both upper and lower states, and their associated uncertainties are provided (ranging from 180 to 480 kHz). These data, particularly the contents of Table 1 and potentially the supplementary material, are directly compatible with the input requirements of the MARVEL algorithm. Accessing the full PDF would be necessary to extract the complete dataset from Table 1 and any supplementary files."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2017.07.030.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution Fourier transform spectroscopy of ^{12}CH_{4}, performing rovibrational analysis and making extensive quantum assignments for thousands of transitions in the Tetradecad region. Its objective is to improve and extend the analysis of methane transitions, retrieve line positions and intensities, and obtain energy levels from an empirically adjusted model. This directly aligns with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that a new measured line list containing positions and intensities for 5934 features has been compiled. Quantum assignments were made for 2847 transitions. This detailed data, including observed positions, intensities, and quantum assignments for both upper and lower states, is provided in the Supplementary Material, with a sample structure described in Table 4.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainty for the assigned line positions is stated as the RMS standard deviation of the line position fit.",
+            "uncertainty_value": "0.0025 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 4: Sample of Electronic Supplementary data. Methane at 296 K with assignment in the 5300-5550 cm⁻¹ region."
+              ],
+              "description": "Sample of Electronic Supplementary data. Methane at 296 K with assignment in the 5300-5550 cm⁻¹ region. This includes the observed positions and intensities (at 296 K) along with the quantum assignments and lower state energies and rovibrational assignments."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It presents new, high-resolution experimental rovibrational transition data for ^{12}CH_{4} in the 5300-5550 cm⁻¹ region. Crucially, it provides measured transition wavenumbers (line positions), clear quantum number assignments for both upper and lower states (implied by 'rovibrational assignments' and 'lower state energies'), and their associated uncertainties. The full dataset is available in supplementary material, making it directly compatible with the MARVEL algorithm for reconstructing energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2018.04.007.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports new high-resolution absorption spectra of methane (CH4) at 297 K and 80 K, constructing empirical line lists and extending rovibrational assignments for approximately 2060 ^{12}CH_{4} transitions. It also derives empirical lower state energies and discusses the uncertainties of line positions. These activities, particularly the measurement of transition wavenumbers with quantum number assignments and associated uncertainties, are directly aligned with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper explicitly states that 'The complete lists at 297 K and 80 K are provided as separate Supplementary Materials.' and 'Table 3 shows a sample of the assigned line list provided as Supplementary Material.'. This indicates that the data, including measured transition wavenumbers, intensities, and full rovibrational assignments (upper and lower quantum numbers), are available in supplementary tables.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainty on the reported line positions is estimated.",
+            "uncertainty_value": "1.5 × 10^{−3} cm^{−1}",
+            "table_info": {
+              "table_title": [
+                "Table 3: Sample of the line list of methane at 296 K with assignment in the 5695–5850 cm^{−1} region provided as Supplementary Material."
+              ],
+              "description": "Table 3 is described as a sample of the assigned line list, implying it contains measured wavenumbers along with rovibrational assignments (including upper and lower state quantum numbers) for the transitions. The full list is available in the supplementary material."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides new, experimentally measured high-resolution transition wavenumbers for methane, along with rovibrational assignments for both upper and lower states (for about 2060 lines of ^{12}CH_{4}), and explicitly states the uncertainty of these line positions. The complete MARVEL-compatible experimental data are confirmed to be available in the supplementary material."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2018.04.033.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper performs high-resolution rovibrational spectroscopy of the ν3 band of methane, measuring 22 line centers with sub-Doppler uncertainty. This aligns directly with MARVEL's goal of reconstructing molecular energy level structures from precise experimental transition wavenumbers and their associated quantum number assignments. The work aims to improve the precision of known transition frequencies, which is a key input for accurate energy level determination."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that 22 measured transition frequencies with their uncertainties are listed in 'Table 2'. It also describes the quantum number assignments using standard spectroscopic notation (e.g., P(13), R(10), Q(3) with F2 component), implying full assignments for both upper and lower states are provided in the table. The specific transition type (P, Q, R) and J values, along with symmetry components, are typical for defining rovibrational states for MARVEL.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainties for the measured transition frequencies are explicitly stated.",
+            "uncertainty_value": "average 0.40 MHz, ranging from 0.12 MHz to 1.3 MHz",
+            "table_info": {
+              "table_title": [
+                "Table 2: Measured transition frequencies of the ν _{3} band of ^{12}CH_{4}."
+              ],
+              "description": "This table lists the 22 newly measured transition frequencies for the ν3 band of 12CH4, along with their uncertainties (σ) and the difference (δ) from previously measured frequencies."
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL as it provides new, highly precise rovibrational transition frequencies for 12CH4, which are direct inputs for the MARVEL algorithm. The data includes measured line centers, explicit uncertainties, and implied full quantum number assignments for both upper and lower states, all of which are essential for MARVEL. The data is presented in Table 2."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2018.08.006.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper describes a high-resolution spectroscopic study of $^{12}$CH$_{4}$ line positions and intensities. It focuses on extending quantum assignments for rovibrational transitions in specific Tetradecad regions (5550–5814 cm$^{-1}$). The work involves experimental measurements, line position and intensity retrieval, and analysis using effective Hamiltonian models to make quantum assignments. This directly aligns with MARVEL's goal of reconstructing molecular energy levels from assigned experimental transitions, aiming to improve existing line lists and extend assignments."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The main line list, containing observed positions and intensities along with quantum assignments for both upper and lower states (including lower state energies and rovibrational assignments), is compiled and attached as Supplementary Material. A sample of this list is provided in Table 5 within the paper.",
+            "need_pdf": false,
+            "has_uncertainty": true,
+            "uncertainty_description": "The abstract states that 'All assigned 3445 line positions were fitted with RMS standard deviations of 0.0024 cm$^{-1}$.' This value indicates the precision of the observed line positions in the final fit. The JPL spectrometer resolution is also mentioned as 0.0044 cm$^{-1}$ (unapodized) and the frequency scale calibration precision as 0.0006 cm$^{-1}$.",
+            "uncertainty_value": "0.0024 cm$^{-1}$",
+            "table_info": {
+              "table_title": [
+                "Table 5: Sample of Electronic Supplementary data. Methane at 296 K with assignments in the 5550–5695 cm^{−1} region."
+              ],
+              "description": "Table 5 provides a sample of the electronic supplementary material, which includes observed positions and intensities (at 296 K) along with the quantum assignments and lower state energies and rovibrational assignments for methane in the 5550–5695 cm$^{-1}$ region."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL as it provides new high-resolution spectroscopic measurements of $^{12}$CH$_{4}$ rovibrational transitions, along with extensive quantum assignments for both upper and lower states. The complete line list, including positions, intensities, and quantum assignments, is available in the supplementary material. The uncertainty for the fitted line positions is clearly stated as an RMS standard deviation of 0.0024 cm$^{-1}$, making the data compatible with MARVEL's requirements."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2018.10.038.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports high-resolution rovibrational spectroscopy of the CH4 ν3 band. While its primary focus is on line shape analysis and line mixing models, it relies on and determines fundamental spectroscopic parameters for individual rovibrational transitions. Specifically, it discusses and extracts 'zero-pressure frequency' (ωn0) for numerous 'allowed' and 'weak' transitions, along with their associated quantum number assignments. These fitted transition frequencies, with their uncertainties, are precisely the type of input data required by the MARVEL algorithm for reconstructing molecular energy levels."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper explicitly states that the 'spectral parameters of the fitted lines' are 'too numerous to be listed here, so they are archived in the supplemental data'. It specifically mentions 'Table 3' as presenting these parameters for the CH4/N2 system. This table would contain the zero-pressure frequencies (wavenumbers) and associated quantum number assignments for both upper and lower states, implied by the context of 'transitions' and discussion of 'quantum labels of the transition'.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper indicates that 'one stdev is given in parentheses in terms of the last digits' for the retrieved parameters, which would include the zero-pressure frequencies (ωn0).",
+            "uncertainty_value": "not available",
+            "table_info": {
+              "table_title": [
+                "Table 3: Spectroscopic parameters for CH_{4} ν _{3} band Q branch in N_{2} at T = 296 K for model $ α [ 1 , 1 , 2 ] $"
+              ],
+              "description": "This table (and similar tables for other buffer gases mentioned as 'Table 2') is stated to contain the fitted spectroscopic parameters for numerous rovibrational transitions, including zero-pressure frequencies (ωn0), transition moments, shifts, broadenings, and Dicke narrowing coefficients. These parameters are associated with comprehensive quantum number assignments for each transition, implied by the term 'quantum labels of the transition'."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides high-resolution rovibrational spectroscopic data for CH4, specifically fitted zero-pressure transition frequencies for the ν3 Q-branch. These data, along with their associated quantum number assignments and uncertainties, are explicitly stated to be available in the supplementary material, making them directly compatible with the MARVEL algorithm for energy level reconstruction."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2018.12.034.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper describes high-resolution Fourier Transform Spectroscopy of ¹²CH₄ in the 3760–4100 cm⁻¹ region. It focuses on retrieving new line positions and intensities and making comprehensive quantum assignments for rovibrational transitions, aiming to improve and extend the spectroscopic line list. This directly aligns with MARVEL's goal of reconstructing molecular energy level structures from assigned experimental transition data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that a full line list with observed positions, intensities, and quantum assignments (including lower state energies and rovibrational assignments for both upper and lower states) is provided in the Supplementary Material. A sample of this list is presented in Table 6 within the paper.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The uncertainty for the assigned line positions is given as the RMS standard deviation of the fit of observed positions.",
+            "uncertainty_value": "0.0018 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 6"
+              ],
+              "description": "Sample of electronic supplementary data. Methane at 296 K with assignments in the 3760–4100 cm⁻¹ region, including observed positions, intensities, quantum assignments, and lower state energies."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL. It provides new high-resolution experimental rovibrational transition wavenumbers for ¹²CH₄ in the 3760–4100 cm⁻¹ region. Crucially, these transitions are fully assigned with quantum numbers for both upper and lower states, and their uncertainties are clearly stated (0.0018 cm⁻¹). The complete dataset is available in the supplementary material, making it directly compatible for use with the MARVEL algorithm to reconstruct molecular energy levels."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2019.106646.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports on high-resolution Fourier transform spectroscopy of CH4, focusing on improving and extending rovibrational line lists and quantum assignments in the 8850–9180 cm−1 region. It describes the measurement of new spectra, analysis using ab initio calculations and effective Hamiltonian fits to achieve 'full new assignments' for observed lines, and the provision of these assigned transitions in supplementary material. This aligns perfectly with MARVEL's goal of reconstructing molecular energy level structures from experimentally measured and assigned transition data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The complete line list, including observed positions, intensities, global quantum rovibrational assignments (for both upper and lower states implied by 'global quantum rovibrational assignments' and 'lower state energies'), and lower state energies, is explicitly stated to be provided as Supplementary Material. A sample of this list is presented in Table 3 within the paper.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The spectral resolution of the recorded spectra is given as 0.005 cm−1. This value can be inferred as the uncertainty for the measured line positions.",
+            "uncertainty_value": "0.005 cm-1",
+            "table_info": {
+              "table_title": [
+                "Table 3"
+              ],
+              "description": "Sample of electronic supplementary data. The methane line list at 296 K with assignments in the 8850–9180 cm−1 region. This table is stated to include observed positions and intensities, global quantum rovibrational assignments, and lower state energies."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL as it provides new experimentally measured rovibrational transitions for CH4 with full quantum number assignments for both upper and lower states, and associated uncertainties (inferred from resolution). The complete line list is stated to be available in the supplementary material, making it compatible with MARVEL input requirements."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2020.106888.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution spectroscopy of methane, specifically measuring highly accurate line positions (transition wavenumbers) in the 2v_3 R6 manifold using cavity ring-down spectroscopy and Lamb-dip techniques. These measured line positions, along with their associated uncertainties, are the primary input for the MARVEL algorithm to reconstruct molecular energy level structures. Although the paper's stated goal is to provide a reliable line list and compare it with databases, the core data it produces directly supports and is aligned with MARVEL's objective of determining precise molecular energy levels."
+          },
+          "experimental_data": {
+            "has_data": false,
+            "data_format": "The paper describes that 96 line positions and their intensities are listed in 'Table 2'. While the transitions are stated to be in the '2v_3 R6 manifold' and some were found by searching the HITRAN database (implying quantum number assignments), the provided text description of 'Table 2' does not explicitly confirm that full quantum number assignments for both upper and lower states are included for all 96 lines within the table itself. The text does mention that supplementary material is available online, which likely contains the complete data, including full quantum assignments.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "Uncertainties for line positions measured by Lamb-dip spectroscopy (18 lines) range from 5 × 10⁻⁷ cm⁻¹ to 2 × 10⁻⁶ cm⁻¹. For line positions measured by linear absorption spectroscopy (78 lines), the standard deviation ranges from 3 × 10⁻⁵ cm⁻¹ to 6 × 10⁻³ cm⁻¹.",
+            "uncertainty_value": "5 × 10⁻⁷ to 2 × 10⁻⁶ cm⁻¹ (Lamb-dip); 3 × 10⁻⁵ to 6 × 10⁻³ cm⁻¹ (linear absorption)",
+            "table_info": {
+              "table_title": [
+                "Table 2"
+              ],
+              "description": "The positions and intensities of 96 lines obtained around the 2v_3 R6 manifold of methane."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL as it provides new, high-accuracy transition wavenumber measurements for methane, which are fundamental inputs for energy level reconstruction. While the paper describes the existence of a table containing these line positions and their uncertainties, the provided text does not explicitly state that full quantum number assignments for both the upper and lower states are included in this table. Therefore, based on the strict requirement for explicit confirmation of full quantum assignments in the provided text, the experimental data cannot be confirmed as fully MARVEL-compatible without accessing the supplementary material, which is mentioned as available."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2020.107061.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution Fourier transform spectroscopy of ^12CH_4, measuring new transition line positions and intensities in the 4300–4600 cm⁻¹ region. It performs extensive quantum number assignments for over 10,304 rovibrational transitions and uses these data to improve existing line lists and refine effective Hamiltonian models. The objective of accurately determining and assigning molecular transitions to improve spectroscopic databases aligns directly with MARVEL's goal of reconstructing molecular energy level structures from experimental spectroscopic data."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that a new measured line list containing positions and intensities for 14,151 absorption features, with quantum assignments for over 10,304 transitions, is provided in the Supplementary Materials. Table 5 is described as a 'Sample of Electronic Supplementary data' which includes observed positions, intensities, quantum assignments, and lower state energies.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The positions of 8605 cold band transitions were fitted with an RMS standard deviation of 0.0014 cm⁻¹. The spectrometer resolution was 0.0075 cm⁻¹. Calibration checks showed an average shift of 5.0 × 10⁻⁶ cm⁻¹.",
+            "uncertainty_value": "0.0014 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 5"
+              ],
+              "description": "Sample of Electronic Supplementary data. Methane at 296 K with assignments in the 3760–4100 cm^{−1} region. It includes the observed positions and intensities (at 296 K), the quantum assignments following the notations described in Ref [40], and lower state energies."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL as it provides a comprehensive new set of experimentally measured and quantum-assigned rovibrational transition wavenumbers for ^12CH_4. The full line list, complete with positions, intensities, and full quantum assignments (including explicit mention of lower state energies), along with associated uncertainties, is available in the supplementary material, making it directly compatible with the MARVEL algorithm."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_j.jqsrt.2021.108021.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper focuses on high-resolution Fourier transform spectroscopy of methane, reporting new measurements of line positions and intensities in the 4100–4300 cm⁻¹ region. A key aspect is the extensive quantum assignment of over 11,520 new rovibrational transitions, which are then used in conjunction with effective Hamiltonian models. The objective is to improve existing spectroscopic line lists with more accurate positions and comprehensive assignments. MARVEL is an algorithm that reconstructs molecular energy level structures from exactly such experimentally measured transition wavenumbers with their quantum number assignments and uncertainties. Therefore, the paper's content, methods (high-resolution spectroscopy, rovibrational analysis, transition assignment), and objective (creating an accurate, assigned line list) are highly aligned with MARVEL's goals."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that a new measured line list containing positions and intensities for 12,378 features, with quantum assignments for over 11,520 transitions, is provided in the Supplementary Materials. Table 5 is explicitly mentioned as a 'Sample of Electronic Supplementary data', including 'observed positions and intensities (at 296 K), the quantum assignments following the notations described in Ref [63], and lower state energies.' This format is ideal for MARVEL.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The paper states, 'All assigned 6963 line positions were fitted to RMS standard deviations of 0.0015 cm⁻¹.' This provides a direct measure of the uncertainty for the reported line positions. The instrument resolution is also mentioned as 0.0075 cm⁻¹, and calibration uncertainty from previous works is implied to be similar.",
+            "uncertainty_value": "0.0015 cm⁻¹",
+            "table_info": {
+              "table_title": [
+                "Table 5: Sample of Electronic Supplementary data. Methane at 296 K with assignments in the 4100–4300 cm⁻¹ region."
+              ],
+              "description": "This table is described as a 'sample' of the full line list provided in the Supplementary Materials, which includes observed positions, intensities, quantum assignments, and lower state energies."
+            },
+            "has_supplementary_data": true
+          },
+          "summary": {
+            "Evaluation": "The paper is highly relevant to MARVEL's objectives. It presents new high-resolution spectroscopic measurements of methane, focusing on line position retrieval and extensive rovibrational quantum assignments. The authors explicitly state that a new, significantly improved line list containing experimentally measured transition wavenumbers, full quantum assignments for both upper and lower states, and associated uncertainties (RMS standard deviation of 0.0015 cm⁻¹) is provided in the Supplementary Materials. This data is directly compatible with the input requirements for the MARVEL algorithm."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    },
+    {
+      "file_path": "..\\article_xmls\\Test_files_T\\10.1016_s0022-4073(01)00263-1.xml",
+      "llm_analysis": {
+        "success": true,
+        "analysis": {
+          "marvel_relevance": {
+            "is_relevant": true,
+            "explanation": "The paper reports high-resolution IR absorption spectroscopy of CH4, specifically analyzing rovibrational transitions in the ν3 band. It measures and refines line frequencies (wavenumbers) from experimental spectra, explicitly stating that 'The line frequencies and intensities derived from our experimental data are represented in Table 1.' and describing a 'global fit of all available observed frequencies... combined with the newly measured 100 high J R-branch data'. This aligns directly with MARVEL's goal of reconstructing molecular energy levels from experimental spectroscopic data using assigned transition wavenumbers."
+          },
+          "experimental_data": {
+            "has_data": true,
+            "data_format": "The paper states that 'The line frequencies and intensities derived from our experimental data are represented in Table 1.' The title of Table 1 is 'Line positions and line intensities of CH_{4} in R(17)–R(22) clusters of the ν _{3} band', indicating a tabular format. The context of analyzing 'R(17)–R(22) clusters' and performing a 'global fit' to 'assigned measured spectra' strongly implies that these line positions include full quantum number assignments for both upper and lower states, which is standard for such spectroscopic data tables.",
+            "need_pdf": true,
+            "has_uncertainty": true,
+            "uncertainty_description": "The accuracy of the frequency data for non-blended lines is explicitly stated. Additionally, the standard deviation for the newly measured high J data is provided.",
+            "uncertainty_value": "0.5e-3 cm-1 (for non-blended lines); better than 6e-3 cm-1 (for the 100 new high J data)",
+            "table_info": {
+              "table_title": [
+                "Table 1: Line positions and line intensities of CH_{4} in R(17)–R(22) clusters of the ν _{3} band"
+              ],
+              "description": "This table contains experimentally derived line positions (wavenumbers) and intensities for CH4 in the R(17)–R(22) clusters of the ν3 band. These data are used to refine molecular parameters and for a global fit of observed frequencies."
+            },
+            "has_supplementary_data": false
+          },
+          "summary": {
+            "Evaluation": "This paper is highly relevant to MARVEL because it presents new experimentally measured rovibrational line positions (wavenumbers) for CH4 in the ν3 band. These data are stated to be in Table 1, come with explicit uncertainty estimates (0.5e-3 cm-1 and 6e-3 cm-1), and are implied to be fully assigned with quantum numbers, making them compatible input for the MARVEL algorithm. Accessing the full Table 1 from the PDF would be necessary to extract the complete dataset."
+          }
+        },
+        "model": "gemini-2.5-flash"
+      }
+    }
+  ]
+}

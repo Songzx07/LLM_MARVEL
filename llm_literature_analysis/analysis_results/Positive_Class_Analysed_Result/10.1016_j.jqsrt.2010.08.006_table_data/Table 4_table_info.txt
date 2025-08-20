@@ -1,0 +1,21 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2010.08.006
+Table Title: Table 4: Sample extracted from the line list attached as electronic supplementary data. Calculated and observed methane transitions in the 6287–6550cm^{−1} region.
+================================================================================
+
+Table Caption: Sample extracted from the line list attached as electronic supplementary data. Calculated and observed methane transitions in the 6287–6550cm^{−1} region.
+
+Uncertainty Information: 0.003 cm^{-1}
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes: in this table, the columns are: 1. Iso: isotopologues: 61 for ^{ 12 } CH _{ 4 } and 60 might be ^{ 12 } CH _{ 4 } , CH _{ 3 } D or ^{ 13 } CH _{ 4 } . In the L1, L3 and L4 ranges, the lines marked with ISO=61 could include some contributions from blended lines of other isotopologues (except for CH _{ 3 } D in case of L1, L3). 2. Sc: means type of source: blank corresponds to the CRDS data of Ref. [20], PR means predictions, R means Reims FTS origin. 3. ν _{ 0 } : line positions; except for PR type calculated lines, these are experimental data. 4. I (296K) line intensities; except for PR type calculated lines, these are experimental data. 5. Lower rovibrational assignment are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T_{d} irreducible representation) and the rovibration ranking index α. 6. Upper rovibrational assignment in the same format. 7. Difference between observed and calculated line position included in the fit in 10 ^{ −3 } cm ^{ −1 } units. These values appear for assigned lines only. 8. Io–Ic ( %) is the relative difference between observed and calculated intensities included in the fit. These values appear for assigned lines if their intensity was included in the fit. 9. The vibrational band assignment: contains the principal vibrational quanta (v _{ 1 } ,v _{ 2 } ,v _{ 3 } ,v _{ 4 } ) and vibrational symmetry type C _{ v } (T_{d} irreducible representation). 10. E lower : lower energy value when available [in cm ^{ −1 } ].
+  2. [tbl4fna] In case where only J lower is given, this was determined empirically from a Boltzmann populations at two temperatures [20].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

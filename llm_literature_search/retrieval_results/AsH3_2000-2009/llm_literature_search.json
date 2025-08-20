@@ -1,0 +1,119 @@
+{
+  "search_metadata": {
+    "total_papers": 4,
+    "search_method": "LLM-Enhanced Search"
+  },
+  "papers": [
+    {
+      "title": "On the study of the vibrational energy levels of Arsine molecule",
+      "authors": [
+        "N.A. Sanzharov",
+        "C. Leroy",
+        "O.N. Ulenikov",
+        "E.S. Bekhtereva"
+      ],
+      "year": 2008,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/j.jms.2007.10.007",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 2,
+      "url": "https://doi.org/10.1016/j.jms.2007.10.007",
+      "type": "journal-article",
+      "page": "1-24",
+      "volume": "247",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This title directly states the study of 'vibrational energy levels of Arsine molecule' in the Journal of Molecular Spectroscopy, strongly indicating high-resolution experimental data with assigned transitions and frequencies, which are essential inputs for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High-resolution IR spectrum of AsH2D: Ro-vibrational analysis of the bending triad bands , , and",
+      "authors": [
+        "O.N. Ulenikov",
+        "E.S. Bekhtereva",
+        "O.V. Gromova",
+        "T.D. Chudinova",
+        "W. Jerzembeck",
+        "H. Bürger"
+      ],
+      "year": 2008,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/j.jms.2008.02.002",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 5,
+      "url": "https://doi.org/10.1016/j.jms.2008.02.002",
+      "type": "journal-article",
+      "page": "114-122",
+      "volume": "251",
+      "issue": "1-2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper explicitly mentions 'AsH2D', which is an isotopologue of arsine (AsH3). The title 'High-resolution IR spectrum' and 'Ro-vibrational analysis' strongly indicate experimental measurements with assigned transitions, well-defined quantum numbers, and likely reported uncertainties, which is precisely the data required for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High resolution study of AsHD2: Ground state and the three bending fundamental bands ν3, ν4, and ν6",
+      "authors": [
+        "O.N. Ulenikov",
+        "E.S. Bekhtereva",
+        "A.S. Bulavenkova",
+        "C. Leroy",
+        "W. Jerzembeck",
+        "H. Bürger"
+      ],
+      "year": 2006,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/j.jms.2006.09.005",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 6,
+      "url": "https://doi.org/10.1016/j.jms.2006.09.005",
+      "type": "journal-article",
+      "page": "102-111",
+      "volume": "240",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.8,
+        "reasoning": "This paper describes a 'High resolution study' of AsHD2, an isotopologue of arsine (AsH3). It explicitly mentions 'Ground state and the three bending fundamental bands', which strongly suggests experimental, assigned rovibrational transitions with well-defined quantum numbers and measured frequencies, precisely the type of data usable for the MARVEL algorithm. While not AsH3 itself, data on isotopologues are highly valuable and often derived from similar experimental setups.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Study of the stretching modes of the arsine molecule",
+      "authors": ["L. Pluchart", "C. Leroy", "A. Mourbat"],
+      "year": 2003,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1016/s0022-2852(02)00061-9",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 11,
+      "url": "https://doi.org/10.1016/s0022-2852(02)00061-9",
+      "type": "journal-article",
+      "page": "1-11",
+      "volume": "218",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'arsine molecule' and 'stretching modes', indicating experimental vibrational spectroscopy focused on AsH3. This highly suggests the presence of assigned experimental transitions and frequencies usable for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    }
+  ]
+}

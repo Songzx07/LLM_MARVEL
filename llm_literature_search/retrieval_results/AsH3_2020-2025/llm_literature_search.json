@@ -1,0 +1,38 @@
+{
+  "search_metadata": {
+    "total_papers": 1,
+    "search_method": "LLM-Enhanced Search"
+  },
+  "papers": [
+    {
+      "title": "Improved spectroscopic parameters and rotational energy structure of the ground vibrational state of AsH<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si40.svg\" display=\"inline\" id=\"d1e34474\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub></mml:math>",
+      "authors": [
+        "O.N. Ulenikov",
+        "E.S. Bekhtereva",
+        "O.V. Gromova",
+        "S.S. Sidko",
+        "C. Sydow",
+        "S. Bauerecker"
+      ],
+      "year": 2025,
+      "venue": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+      "doi": "10.1016/j.jqsrt.2025.109496",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 0,
+      "url": "https://doi.org/10.1016/j.jqsrt.2025.109496",
+      "type": "journal-article",
+      "page": "109496",
+      "volume": "343",
+      "issue": "",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "The title explicitly mentions 'AsH3', 'improved spectroscopic parameters', and 'rotational energy structure'. This strongly suggests assigned experimental transitions, frequencies, and potentially uncertainties, which are precisely the data required for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    }
+  ]
+}

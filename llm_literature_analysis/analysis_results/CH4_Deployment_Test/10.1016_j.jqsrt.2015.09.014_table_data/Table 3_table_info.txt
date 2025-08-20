@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2015.09.014
+Table Title: Table 3: Sample of Electronic Supplementary data. Observed methane transitions with assignment in the 6539–6800cm^{−1} region.
+================================================================================
+
+Table Caption: Sample of Electronic Supplementary data. Observed methane transitions with assignment in the 6539–6800cm^{−1} region.
+
+Uncertainty Information: 0.0045 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes: the columns are: 1. ν _{ o }: measured line positions. 2. I at 80 K: measured line intensities in cm^{-1}/(molecule cm^{-2}) at 80 K 3. Lower state rovibrational assignment are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T_{d} irreducible representation) and the rovibration ranking index α. 4. Upper state rovibrational assignment in the same format 5. Difference between measured and calculated line position included in the fit in 10^{-3} cm^{-1} units. 6. (Io-Ic)/Io *100 (%) is the relative difference between measured and calculated intensities included in the fit. These values appear for assigned lines if their measured intensities were included in the fit. 7. The vibrational band assignment contains the principal vibrational quanta (v_{1},v_{2},v_{3},v_{4}) and vibrational symmetry type C_{v} (T_{d} irreducible representation). 8. E"= E lower: lower energy value [in cm^{-1}]
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

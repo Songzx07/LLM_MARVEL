@@ -1,0 +1,20 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2009.02.012
+Table Title: Table 2: Sample of retrieved broadening and shifting parameters of methane
+================================================================================
+
+Table Caption: Sample of retrieved broadening and shifting parameters of methane.
+
+Uncertainty Information: 0.005 cm⁻¹ (inferred from spectrometer resolution)
+
+FOOTNOTES:
+----------------------------------------
+  1. The air-broadening and -shifting parameters and temperature exponents of the air broadening parameters are derived using the following equations: $ X air = 0.79 X N 2 + 0.21 X O 2 $, $ X ( γ , δ , n ) $. Wavenumber is given in cm^{−1}, broadening and shifting coefficients are given in units of 0.0001cm^{−1} atm^{−1} at 296K. Confidence intervals (1 SD, in unit of the last quoted digit) are given between parentheses. Band: (6) $ ν 1 + ν 3 ( F 2 ) $, (18) $ 2 ν 2 + ν 3 ( F 2 ) I $, (19) $ 2 ν 2 + ν 3 ( F 2 ) II $, (29) $ ν 2 + ν 3 + ν 4 ( E ) II $, (31) $ ν 2 + ν 3 + ν 4 ( F 1 ) II $, (32) $ ν 2 + ν 3 + ν 4 ( F 1 ) I $, (33) $ ν 2 + ν 3 + ν 4 ( A 2 ) $, (35) $ ν 2 + ν 3 + ν 4 ( F 2 ) I $, (36) $ ν 2 + ν 3 + ν 4 ( F 2 ) II $, (45) $ 2 ν 3 ( E ) $, (46) $ 2 ν 3 ( F 2 ) $, (47) $ ν 3 + 2 ν 4 ( F 2 ) I $, and (50) $ ν 3 + 2 ν 4 ( F 1 ) II $.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

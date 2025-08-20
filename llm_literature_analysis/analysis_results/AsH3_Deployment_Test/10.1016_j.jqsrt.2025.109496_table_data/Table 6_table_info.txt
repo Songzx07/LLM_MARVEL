@@ -1,0 +1,21 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2025.109496
+Table Title: Table 6: Some sets of assigned transitions of the ν2 and ν4 bands of AsH₃.
+================================================================================
+
+Table Caption: Some sets of assigned transitions of the $ ν 2 $ and $ ν 4 $ bands of AsH$ 3 $.
+
+Uncertainty Information: 5 × 10⁻⁵ cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. [tblfn6c] Experimental transition value (in cm^{−1}).
+  2. [tblfn6d] “Experimental” energy value of the upper ro-vibrational state (in cm^{−1}).
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 6_table_data.csv
+Info file: Table 6_table_info.txt
+Generated on: 2025-08-14 12:39:27
+
+================================================================================

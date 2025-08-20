@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2012.11.024
+Table Title: Table 2: Absolute line-center frequencies, ν _{0}, for the 46 strong, isolated ^{12}CH_{4} lines and their absolute frequency uncertainty, σ.
+================================================================================
+
+Table Caption: Absolute line-center frequencies, ν _{0}, for the 46 strong, isolated ^{12}CH_{4} lines and their absolute frequency uncertainty, σ. Line assignments are from Ref. [8] and (–) denotes unassigned lines. The discrepancies with sub-Doppler saturated absorption measurements (Δ) [31] are also given along with uncertainty for this discrepancy, σ _{ Δ }, based on the uncertainties of both studies summed in quadrature. Also shown are the discrepancies with the GOSAT FTS database [8], ΔGOSAT, and with the HITRAN database [6], ΔHITRAN. (See Fig. 9.) All discrepancies are the present values minus referenced values. The last two rows report statistical analysis of the columns above. All units are in MHz.
+
+Uncertainty Information: 0.2 MHz (acetylene), 0.3-54 MHz (methane, depending on line isolation).
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

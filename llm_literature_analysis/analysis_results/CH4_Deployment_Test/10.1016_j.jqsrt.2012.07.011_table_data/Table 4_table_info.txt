@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2012.07.011
+Table Title: Table 4: Retrieved line position, broadened coefficient and pressure shifts in R9 manifold of 2ν₃ band.
+================================================================================
+
+Table Caption: Retrieved line position, broadened coefficient and pressure shifts in R9 manifold of 2ν_{3} band. The differences with respect to the values from Refs. [7,8] are calculated as Δ = 100×(this study - reference)/this study.
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

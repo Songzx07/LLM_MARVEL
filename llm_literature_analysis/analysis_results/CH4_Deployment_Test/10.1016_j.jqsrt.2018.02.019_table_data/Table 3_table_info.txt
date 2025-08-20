@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2018.02.019
+Table Title: Table 3: The lineshape parameters of the six transitions of the 2v₃ band of methane obtained from the multi-spectral fit.
+================================================================================
+
+Table Caption: The lineshape parameters of the six transitions of the 2v _{3} band of methane obtained from the multi-spectral fit. Symbol σ _{0} _{ }= ω _{0}/c is the position in wavenumber. All the uncertainties were given by the fitting algorithm of Levenberg-Marquardt [43,44]. The given intensity S was the average value of the intensities of the seven spectra and weighted by the natural isotopic abundance (0.988274 [36]) of ^{12}CH_{4}.
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

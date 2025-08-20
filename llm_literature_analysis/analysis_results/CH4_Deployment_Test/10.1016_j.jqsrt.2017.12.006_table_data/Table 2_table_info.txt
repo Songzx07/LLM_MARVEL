@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.12.006
+Table Title: Table 2: Parameters of isolated lines retrieved with different models for line profiles.
+================================================================================
+
+Table Caption: Parameters of isolated lines retrieved with different models for line profiles. J′C′α′ and J″C″α″ are the upper- and lower-state rotational quanta, respectively; here α is an index within the polyad scheme indicating the nth energy level having the rotational symmetry C; J is the rotational angular momentum. The numbers in parentheses are the 95%-confidence intervals (the last significant digits of the presented values).
+
+Uncertainty Information: not available
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

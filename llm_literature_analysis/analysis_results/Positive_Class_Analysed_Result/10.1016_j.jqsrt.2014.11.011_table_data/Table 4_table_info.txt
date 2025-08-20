@@ -1,0 +1,31 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2014.11.011
+Table Title: Table 4: Measured line parameters for transitions in the ν_{2}+ν_{3} manifolds of ^{12}CH_{4}.
+================================================================================
+
+Table Caption: Measured line parameters for transitions in the ν_{2}+ν_{3} manifolds of ^{12}CH_{4}.
+
+Uncertainty Information: 0.0001 cm^-1
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes: The lower vibrational state for all transitions is the ground state.
+  2. [tbl4fna] J′ C′ α′ (upper-state rotational quanta); α is an index within the polyad scheme indicating the nth energy level having the rotational symmetry C [see Table 8 in Ref. [12]].
+  3. [tbl4fnb] J″ C″ α″ (lower-state rotational quanta).
+  4. [tbl4fnc] S corresponds to measured line intensities in units of 10^{−22 }cm/molecule at 296K and the % uncertainties are listed in the column next to it. The % uncertainties listed under various columns correspond to one sigma statistical errors obtained from least squares fits.
+  5. [tbl4fnd] $ b L 0 $ are the Lorentz half-width coefficients in cm^{−1} atm^{−1} at 296K; self-width coefficients are given at the top of each row and air-width coefficients are listed at the bottom. The corresponding % uncertainties are listed in the column adjacent to their values.
+  6. [tbl4fne] n ($ b L 0 $) represents the temperature dependence exponents of Lorentz half-width coefficients. They have no units. The values at the top of each row correspond to the temperature dependence exponents for self-width coefficients while the bottom values for the air-width coefficients. The % uncertainties are listed under the next columns.
+  7. [tbl4fnf] $ δ 0 $ are the pressure-shift coefficients in cm^{−1} atm^{−1} at 296K; self-shift coefficients are given at the top of each row and air-shift coefficients are listed at the bottom. The corresponding measurement uncertainties (in units of the last digit quoted) are given in parentheses next to their values.
+  8. [tbl4fng] $ δ ׳ $ values are the temperature dependences of the pressure-shift coefficients expressed in cm^{−1} atm^{−1} K^{−1}. Similar to pressure-shift coefficients the values at the top correspond to self-shift coefficients and the values at the bottom for air-shift coefficients. The corresponding measurement uncertainties (in units of the last digit quoted) are listed in parentheses next to their values.
+  9. [tbl4fnh] Speed dependence parameters (no units) (Eqs. used for speed dependence are provided in Ref. [23]).
+  10. [tbl4fni] Ref. [7].
+  11. [tbl4fnj] Ref. [8].
+  12. [tbl4fnk] Examples only are shown in this table. Ref. [10].
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 4_table_data.csv
+Info file: Table 4_table_info.txt
+Generated on: 2025-08-12 20:03:10
+
+================================================================================

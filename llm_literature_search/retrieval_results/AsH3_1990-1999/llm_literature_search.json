@@ -1,0 +1,401 @@
+{
+  "search_metadata": {
+    "total_papers": 15,
+    "search_method": "LLM-Enhanced Search"
+  },
+  "papers": [
+    {
+      "title": "Saturation Spectrum of the ν2/ν4Dyad of AsH3",
+      "authors": ["G. Spiegl", "W.A. Kreiner"],
+      "year": 1998,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1997.7490",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 8,
+      "url": "https://doi.org/10.1006/jmsp.1997.7490",
+      "type": "journal-article",
+      "page": "142-152",
+      "volume": "187",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'Saturation Spectrum of the ν2/ν4Dyad', which strongly indicates high-resolution experimental spectroscopic data with assigned transitions and frequencies suitable for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "The high resolution spectrum of AsH3 (400) local mode state: symmetry reduction and rotational re-quantization",
+      "authors": ["Ji-Xin Cheng", "Xiao-Gang Wang", "Hai Lin", "Qing-Shi Zhu"],
+      "year": 1998,
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+      "doi": "10.1016/s1386-1425(98)00157-7",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 7,
+      "url": "https://doi.org/10.1016/s1386-1425(98)00157-7",
+      "type": "journal-article",
+      "page": "1947-1960",
+      "volume": "54",
+      "issue": "12",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'high resolution spectrum', indicating experimental data with assigned rotational states and precise frequencies, which is ideal for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High-Resolution Spectroscopic Study of the (310) Local Mode Combination Band System of AsH3",
+      "authors": [
+        "Hai Lin",
+        "Oleg N. Ulenikov",
+        "Sergi Yurchinko",
+        "Xiao-gang Wang",
+        "Qing-shi Zhu"
+      ],
+      "year": 1998,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1997.7463",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 22,
+      "url": "https://doi.org/10.1006/jmsp.1997.7463",
+      "type": "journal-article",
+      "page": "89-96",
+      "volume": "187",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'High-Resolution Spectroscopic Study' of a specific band system, indicating high-quality experimental data with assigned transitions and frequencies suitable for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High resolution spectroscopic study of arsine in the region 6000–6500 cm−1",
+      "authors": ["Dong Wang", "Hai Lin", "Xiao-Gang Wang", "Qing-Shi Zhu"],
+      "year": 1998,
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+      "doi": "10.1016/s1386-1425(98)00172-3",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 7,
+      "url": "https://doi.org/10.1016/s1386-1425(98)00172-3",
+      "type": "journal-article",
+      "page": "109-119",
+      "volume": "55",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'arsine' (AsH3) and 'High resolution spectroscopic study' in a specific spectral region, strongly indicating experimental data with assigned transitions and frequencies suitable for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High resolution vibration-rotation spectrum of arsine ν = 2 stretching overtone",
+      "authors": ["S Yang"],
+      "year": 1997,
+      "venue": "Spectrochimica Acta Part A: Molecular Spectroscopy",
+      "doi": "10.1016/s0584-8539(96)01799-0",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 5,
+      "url": "https://doi.org/10.1016/s0584-8539(96)01799-0",
+      "type": "journal-article",
+      "page": "157-163",
+      "volume": "53",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'arsine' and 'high resolution vibration-rotation spectrum' with a specific 'ν = 2 stretching overtone'. This strongly indicates experimental data with assigned transitions, frequencies, and likely uncertainties, making it highly suitable for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High resolution photoacoustic spectrum of AsH3 () bands",
+      "authors": [
+        "Jia-xiang Han",
+        "Oleg N. Ulenikov",
+        "Sergi Yurchinko",
+        "Lu-yuan Hao",
+        "Xiao-gang Wang",
+        "Qing-shi Zhu"
+      ],
+      "year": 1997,
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+      "doi": "10.1016/s1386-1425(97)00067-x",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 10,
+      "url": "https://doi.org/10.1016/s1386-1425(97)00067-x",
+      "type": "journal-article",
+      "page": "1705-1712",
+      "volume": "53",
+      "issue": "11",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'AsH3' and 'High resolution photoacoustic spectrum' with '() bands' indicating specific assignments. This strongly suggests experimental data with assigned transitions and frequencies, highly suitable for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High resolution vibration—rotation spectrum of arsine v = 2 stretching overtone",
+      "authors": ["Sheng-Fu Yang", "Xiao-gang Wang", "Qing-Shi Zhu"],
+      "year": 1997,
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+      "doi": "10.1016/s1386-1425(96)01799-4",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 1,
+      "url": "https://doi.org/10.1016/s1386-1425(96)01799-4",
+      "type": "journal-article",
+      "page": "157-163",
+      "volume": "53",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "Duplicate of Paper 30. The title explicitly mentions 'arsine' and 'high resolution vibration-rotation spectrum' with a specific 'v = 2 stretching overtone'. This strongly indicates experimental data with assigned transitions, frequencies, and likely uncertainties, making it highly suitable for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Ground State Rotational Energies of Arsine",
+      "authors": [
+        "G. Tarrago",
+        "V. Dana",
+        "J.-Y. Mandin",
+        "S. Klee",
+        "B.P. Winnewisser"
+      ],
+      "year": 1996,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1996.0151",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 23,
+      "url": "https://doi.org/10.1006/jmsp.1996.0151",
+      "type": "journal-article",
+      "page": "10-21",
+      "volume": "178",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'Arsine' and 'Ground State Rotational Energies', indicating experimental spectroscopic measurements. Such papers typically provide assigned rotational transitions with quantum numbers and measured frequencies, which are ideal inputs for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Vibrational spectra of phosphine and arsine in the gas phase, the liquid phase, and in the solution of liquefied argon",
+      "authors": [
+        "P.G. Sennikov",
+        "D.A. Raldugin",
+        "Sh.Sh. Nabiev",
+        "V.A. Revin",
+        "B.S. Khodzhiev"
+      ],
+      "year": 1996,
+      "venue": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+      "doi": "10.1016/0584-8539(95)01555-8",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 12,
+      "url": "https://doi.org/10.1016/0584-8539(95)01555-8",
+      "type": "journal-article",
+      "page": "453-463",
+      "volume": "52",
+      "issue": "4",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.8,
+        "reasoning": "The title explicitly mentions 'arsine' and 'Vibrational spectra' in the 'gas phase'. This strongly suggests experimental measurements of vibrational transitions in arsine, which could be assigned and used for MARVEL input, especially the gas phase data.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Line Positions and Intensities in the Vibrational System 2ν2/ν2 + ν4/2ν4/ν1/ν3 of Arsine",
+      "authors": [
+        "J.Y. Mandin",
+        "V. Dana",
+        "G. Tarrago",
+        "S. Klee",
+        "B.P. Winnewisser"
+      ],
+      "year": 1995,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1995.1181",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 14,
+      "url": "https://doi.org/10.1006/jmsp.1995.1181",
+      "type": "journal-article",
+      "page": "319-329",
+      "volume": "172",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper is highly relevant as it explicitly mentions 'Arsine' and 'Line Positions', indicating experimental spectroscopic measurements with likely assigned transitions and frequencies, which are directly usable for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High-Resolution Fourier Transform Spectra of AsH3: Transitions to the Interacting Sublevels of the v4 = 2 State",
+      "authors": [
+        "O.N. Ulenikov",
+        "A.B. Malikova",
+        "B.P. Winnewisser",
+        "M. Winnewisser"
+      ],
+      "year": 1995,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1995.1182",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 5,
+      "url": "https://doi.org/10.1006/jmsp.1995.1182",
+      "type": "journal-article",
+      "page": "330-343",
+      "volume": "172",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper is highly relevant as it explicitly mentions 'AsH3' and 'High-Resolution Fourier Transform Spectra: Transitions', indicating experimental spectroscopic measurements with assigned transitions and frequencies, directly usable for the MARVEL algorithm.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Quadrupole Hyperfine and A1-A2 Splitting in the ν2 Fundamental of Arsine",
+      "authors": ["G. Spiegl", "W. Hohe", "U. Haring", "W.A. Kreiner"],
+      "year": 1994,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1994.1031",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 3,
+      "url": "https://doi.org/10.1006/jmsp.1994.1031",
+      "type": "journal-article",
+      "page": "349-363",
+      "volume": "163",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "The title explicitly mentions 'Arsine' and describes 'Quadrupole Hyperfine and A1-A2 Splitting in the ν2 Fundamental', which strongly indicates high-resolution experimental spectroscopic measurements with assigned transitions and quantum numbers, ideal for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "High-Resolution Fourier Transform Spectra of AsH3: The Vibrational Bands 2ν2(A1), ν2 + ν4(E), ν1(A1), and ν3(E)",
+      "authors": [
+        "O.N. Ulenikov",
+        "A.E. Cheglokov",
+        "G.A. Shevchenko",
+        "M. Winnewisser",
+        "B.P. Winnewisser"
+      ],
+      "year": 1993,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1993.1012",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 28,
+      "url": "https://doi.org/10.1006/jmsp.1993.1012",
+      "type": "journal-article",
+      "page": "141-160",
+      "volume": "157",
+      "issue": "1",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This paper is highly relevant. It explicitly mentions 'AsH3' and 'High-Resolution Fourier Transform Spectra', indicating experimental measurements. The specification of 'Vibrational Bands' with quantum number assignments (e.g., A1, E) strongly suggests the presence of assigned experimental transitions with frequencies and likely uncertainties, which are ideal for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Absolute Infrared Intensities in the Fundamentals ν1 and ν3 of Arsine",
+      "authors": [
+        "V. Dana",
+        "J.Y. Mandin",
+        "G. Tarrago",
+        "W.B. Olson",
+        "B. Bezard"
+      ],
+      "year": 1993,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1993.1143",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 14,
+      "url": "https://doi.org/10.1006/jmsp.1993.1143",
+      "type": "journal-article",
+      "page": "468-480",
+      "volume": "159",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 0.9,
+        "reasoning": "This paper is highly relevant. It explicitly mentions 'Arsine' and 'Absolute Infrared Intensities in the Fundamentals ν1 and ν3', strongly implying experimental measurements with associated frequencies and vibrational assignments, which would be crucial for MARVEL input.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    },
+    {
+      "title": "Hyperfine Structure Analysis of Arsine in the Ground, v2 = 1, and v4 = 1 States",
+      "authors": ["L. Fusina", "F. Scappini", "B.M. Dinelli"],
+      "year": 1993,
+      "venue": "Journal of Molecular Spectroscopy",
+      "doi": "10.1006/jmsp.1993.1033",
+      "abstract": "",
+      "publisher": "Elsevier BV",
+      "citation_count": 6,
+      "url": "https://doi.org/10.1006/jmsp.1993.1033",
+      "type": "journal-article",
+      "page": "413-418",
+      "volume": "157",
+      "issue": "2",
+      "source": "crossref",
+      "llm_analysis": {
+        "relevance_score": 1.0,
+        "reasoning": "This paper is highly relevant. It explicitly mentions 'Arsine' and 'Hyperfine Structure Analysis', indicating high-resolution experimental measurements. The specification of 'Ground, v2 = 1, and v4 = 1 States' directly refers to quantum state assignments, which are essential for MARVEL.",
+        "is_relevant": true,
+        "analysis_type": "title",
+        "llm_service": "gemini"
+      }
+    }
+  ]
+}

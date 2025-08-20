@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jms.2013.06.002
+Table Title: Table 2
+================================================================================
+
+Table Caption: Spectral lines identified as R(0) transitions based on the jet/cell two-temperature analysis.
+
+Uncertainty Information: 3e-3 cm-1
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

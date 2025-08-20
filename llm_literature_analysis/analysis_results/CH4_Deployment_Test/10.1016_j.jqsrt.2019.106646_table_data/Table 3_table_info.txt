@@ -1,0 +1,22 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2019.106646
+Table Title: Table 3: Sample of electronic supplementary data. The methane line list at 296 K with assignments in the 8850–9180 cm^{−1} region.
+================================================================================
+
+Table Caption: Sample of electronic supplementary data. The methane line list at 296 K with assignments in the 8850–9180 cm^{−1} region.
+
+Uncertainty Information: 0.005 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes:
+  2. [tb3fn4] Lower and upper state rovibrational assignments are given by the vibrational polyad number P, the rotational quantum number J, the rovibrational symmetry type C (T_{d} irreducible representation) and the rovibration ranking index α.
+  3. [tb3fn5] E_{low}: recommended value for the lower state energy [in cm^{−1}], default E lower is 333.3333; ^{f}γ_{self} – self-broadening coefficient (cm^{−1}/atm).
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 3_table_data.csv
+Info file: Table 3_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

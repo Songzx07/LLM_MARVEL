@@ -1,0 +1,24 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2017.12.005
+Table Title: Table 5: Comparisons of line parameters for the Q-branch transitions in the ν_{3} band of ^{12}CH_{4}
+================================================================================
+
+Table Caption: Comparisons of line parameters for the Q-branch transitions in the ν_{3} band of ^{12}CH_{4}.
+
+Uncertainty Information: 0.0002 cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Notes: The uncertainties listed in parentheses are 1-sigma statistical errors in the last quoted digit(s). As example, 3004.450059 (42) cm^{−1} means 3004.450059±0.000042 cm^{−1}. The lower vibrational state for all transitions is the ground state. Measured values are listed at the top row (with uncertainties) and the HITRAN2012 [7] values at the second row (no uncertainties).The values in the last row correspond to those from Pine and Gabard [19] converted to HITRAN units. We have used the definition between transition moment squared and line intensity given in [19] to convert the line intensity values to correspond to HITRAN units. For the line positions we considered the larger of the reported uncertainty or the determined line positions from the CH_{4}−N_{2} table minus the CH_{4}−O_{2} table. For the air-broadened half-width coefficients, we used the reported uncertainty in 0.79 × (CH_{4}−N_{2}) width + uncertainty in 0.21 × (CH_{4}−O_{2}) width. However, there are a number of lines where line positions and transition moments were determined but gamma and delta were fixed. These lines have 0.000000 for the uncertainty in width and pressure shift coefficients. Pine and Gabard [19] do not specify what they were fixed to; presumably to the single spectrum fits from their 1992 paper [18]. The % unc. listed under various columns correspond to one standard deviation statistical uncertainties obtained from the least squares fits.
+  2. [tb5fn1] J′C′α′ (upper-state rotational quanta); α is an index within the polyad scheme indicating the n^{th} energy level having the rotational symmetry C (see Table 8 in Brown et al. Ref. [4]).
+  3. [tb5fn2] J″C″α″ (lower-state rotational quanta)
+  4. [tb5fn4] $ b L 0 are $ the Lorentz-broadened half-width coefficients in cm^{−1} atm^{−1} at 296 K; air-width coefficients from present study are given at the top row and those from HITRAN2012 [7] are listed in the middle. Parameters from Pine and Gabard [19] are compared to present values, when available and are listed at the bottom in each row. The corresponding % uncertainties are listed in the column adjacent to the measured values, except for positions where the uncertainties are given in parentheses. See the text for details.
+  5. [tb5fn5] δ^{0} is the pressure-shift coefficient in cm^{−1} atm^{−1} at 296 K. The air-shift coefficient from present study are given at the top row and those from HITRAN2012 [7] are listed in the middle. Parameters from Pine and Gabard [19] are compared to present values, when available, and are listed at the bottom in each row. The measurement uncertainties (in units of the last digit quoted) are given in parentheses next to their values. See the text for details.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 5_table_data.csv
+Info file: Table 5_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

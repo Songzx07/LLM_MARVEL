@@ -1,0 +1,16 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2012.11.024
+Table Title: Table 1: Absolute line-center frequencies, ν _{0}, for ^{12}C_{2}H_{2}in the ν _{1}+ν _{3} band and their absolute frequency uncertainty, σ.
+================================================================================
+
+Table Caption: Absolute line-center frequencies, ν _{0}, for ^{12}C_{2}H_{2}in the ν _{1}+ν _{3} band and their absolute frequency uncertainty, σ. The last column lists the discrepancies (Δ, present minus previous) between the present DCS measurements and previous sub-Doppler heterodyne measurements that used saturated absorption spectroscopy [2]. The last two rows report the mean and standard deviation of Δ. All units are in MHz.
+
+Uncertainty Information: Ranges from 0.2 MHz to 54 MHz, depending on the line and molecule.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 1_table_data.csv
+Info file: Table 1_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================

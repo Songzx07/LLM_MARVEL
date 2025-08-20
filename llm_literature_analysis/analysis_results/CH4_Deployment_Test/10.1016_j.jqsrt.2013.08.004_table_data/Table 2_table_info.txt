@@ -1,0 +1,24 @@
+================================================================================
+Paper DOI: 10.1016/j.jqsrt.2013.08.004
+Table Title: Table 2: Measured spectral line parameters for air- and self-broadening in the methane ν₂ band sorted by |m|
+================================================================================
+
+Table Caption: Measured spectral line parameters for air- and self-broadening in the methane ν_{2} band sorted by |m|.
+
+Uncertainty Information: ±0.0001cm⁻¹
+
+FOOTNOTES:
+----------------------------------------
+  1. Values in parentheses are statistical uncertainties in units of the last digit quoted; (0) means that the uncertainty is less than half a unit.
+  2. [tbl2fna] Positions are given in cm^{−1}.
+  3. [tbl2fnb] Intensities are in units of cm^{−1}/(molecule cm^{−2}) at 296K. Percent statistical uncertainties are given in the adjoining column.
+  4. [tbl2fnc] Half width and pressure-induced shift coefficients are in units of cm^{−1} atm^{−1} at 296K.
+  5. [tbl2fne] Temperature dependences of shift coefficients are in units of cm^{−1} atm^{−1} K^{−1}.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 2_table_data.csv
+Info file: Table 2_table_info.txt
+Generated on: 2025-08-14 00:15:18
+
+================================================================================

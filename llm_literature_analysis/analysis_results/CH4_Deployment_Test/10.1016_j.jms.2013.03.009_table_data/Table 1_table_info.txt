@@ -1,0 +1,14 @@
+================================================================================
+Paper DOI: 10.1016/j.jms.2013.03.009
+Table Title: Table 1: The intensities of CH4 spectral line 6105.6257cm^{−1} (R9F1, R9F2) retrieved by different line profile models from Ne- and N_{2}-broadened spectra.
+================================================================================
+
+Table Caption: The intensities of CH4 spectral line 6105.6257cm^{−1} (R9F1, R9F2) retrieved by different line profile models from Ne- and N_{2}-broadened spectra.
+
+FILE INFORMATION:
+----------------------------------------
+CSV data file: Table 1_table_data.csv
+Info file: Table 1_table_info.txt
+Generated on: 2025-08-14 00:15:17
+
+================================================================================
