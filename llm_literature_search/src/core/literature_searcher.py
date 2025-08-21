@@ -545,29 +545,3 @@ class LiteratureSearcher:
         if max_year:
             filters.append(f"until-pub-date:{max_year}")
         return filters
-
-
-# Example usage
-if __name__ == "__main__":
-    # Initialize searcher
-    searcher = LiteratureSearcher()
-
-    # Perform search with multiple strategies (no total_limit needed)
-    keywords = ["machine learning"]
-    additional_keywords = ["artificial intelligence", "deep learning"]
-    papers = searcher.search_with_multiple_strategies(
-        base_keywords=keywords,
-        additional_keywords=additional_keywords,
-        min_year=2020,
-        max_year=2024
-    )
-
-    # Filter by citations
-    high_impact_papers = searcher.filter_papers_citations_only(
-        papers, min_citations=10)
-
-    # Save results
-    csv_file, output_dir = searcher.save_results(high_impact_papers)
-    print(f"Results saved to {output_dir}")
-    print(f"Total papers found: {len(papers)}")
-    print(f"High impact papers: {len(high_impact_papers)}")
